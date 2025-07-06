@@ -1,0 +1,55 @@
+{% extends 'software/layouts/bootstrap5.html' %}
+
+{% block title %}
+    contact History
+{% endblock title %}
+
+{% block content %}
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+        background-color: #e9cbcb;  /* Light background color */
+    }
+
+    th, td {
+        border: 1px solid #0e0101;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #79dba2;
+    }
+</style>
+
+<div class="container" style="margin-top: 80px;">
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Message</th>
+                <th>Response</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for contact_submission in ContactSubmissions %}
+                <tr>
+                    <td>{{ contact_submission.full_name }}</td>
+                    <td>{{ contact_submission.email }}</td>
+                    <td>{{ contact_submission.message }}</td>
+                    <td style="text-align: center;">
+                        {% if contact_submission.response == '-----' %}
+                            <span>{{ contact_submission.response }}</span>
+                        {% else %}
+                            <span style="font-weight: bold;">{{ contact_submission.response }}</span>
+                        {% endif %}
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock content %}
