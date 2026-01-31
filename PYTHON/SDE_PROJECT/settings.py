@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)$w7uavru(=fbi&tim%r^iz9o$xcxtr9fdpxxw^(w0vi%+luq=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -82,9 +82,9 @@ WSGI_APPLICATION = 'SDE_PROJECT.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Python',
+        'NAME': 'jobportal',
         'HOST':'localhost',
-        'USER':'root',
+        'USER':'jobuser',
         'PASSWORD':'Susmitha@789',
         'PORT':'3306'
     }
@@ -125,11 +125,15 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_URL = '/static/'
 
-STATICFILES_DIRS=[
-    BASE_DIR/'static'
+STATICFILES_DIRS = [
+    BASE_DIR / 'static'
 ]
+
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
