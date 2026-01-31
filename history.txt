@@ -1,0 +1,104 @@
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-venv python3-pip nginx -y
+git clone https://github.com/susmitha789257/jobportal.git
+cd jobportal/PYTHON/
+python3 -m venv venv
+source venv/bin/activate
+sudo apt install mysql-server -y
+sudo systemctl start mysql
+sudo systemctl enable MySQL
+mysql
+CREATE USER 'jobuser'@'localhost' IDENTIFIED BY 'Susmitha@789';
+GRANT ALL PRIVILEGES ON jobportal.* TO 'jobuser'@'localhost';
+create database jobportal;
+
+pip install --upgrade pip
+pip install django
+pip install django-jazzmin
+pip install django-allauth
+
+sudo apt update
+sudo apt install -y   default-libmysqlclient-dev   build-essential   pkg-config   python3-dev
+pip install mysqlclient
+python3 manage.py makemigrations
+python3 manage.py migrate
+python manage.py runserver 0.0.0.0:8000
+vi settings.py [Host *]
+pip install gunicorn
+
+gunicorn SDE_PROJECT.wsgi:application --bind 127.0.0.1:8000
+sudo vi /etc/systemd/system/gunicorn.service
+
+[Unit]
+Description=gunicorn daemon
+After=network.target
+
+[Service]
+User=ubuntu
+Group=www-data
+WorkingDirectory=/home/ubuntu/jobportal/PYTHON
+ExecStart=/home/ubuntu/jobportal/PYTHON/venv/bin/gunicorn \
+          SDE_PROJECT.wsgi:application \
+          --bind 127.0.0.1:8000 \
+          --workers 3
+
+[Install]
+WantedBy=multi-user.target
+
+
+sudo systemctl daemon-reload
+sudo systemctl start gunicorn
+sudo systemctl enable gunicorn
+sudo systemctl status gunicorn
+sudo apt install nginx -y
+sudo vi /etc/nginx/sites-available/sde_project
+
+server {
+    listen 80;
+    server_name _;
+
+    location /static/ {
+        alias /home/ubuntu/jobportal/PYTHON/staticfiles/;
+    }
+
+    location /media/ {
+        alias /home/ubuntu/jobportal/PYTHON/media/;
+    }
+
+    location / {
+        proxy_pass http://127.0.0.1:8000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    }
+}
+
+
+repeat if modifications done;
+sudo ln -s /etc/nginx/sites-available/sde_project /etc/nginx/sites-enabled/ 
+sudo nginx -t
+sudo rm /etc/nginx/sites-enabled/default
+sudo systemctl restart nginx
+
+
+sudo chmod o+x /home/ubuntu
+sudo chmod o+x /home
+sudo chmod o+x /home/ubuntu/jobportal
+sudo systemctl restart nginx
+http://13.208.176.71/static/css/style.css
+http://13.208.176.71/static/images/logo2.png
+
+
+python manage.py collectstatic
+
+
+settings.py
+STATIC_URL = '/static/'
+
+STATICFILES_DIRS = [
+    BASE_DIR / 'static'
+]
+
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+
+
