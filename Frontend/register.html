@@ -1,25 +1,49 @@
-{% extends 'software/layouts/bootstrap5.html' %}
-{% load static %}
-{% block title %}
-4W register Page
-{% endblock title %}
-{% block content %}
-<style>
-body.registration-container {
-  background-color: #67dce0;
-}
-</style>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>4W Register Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Project CSS -->
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/register.css">
+
+  <style>
+    body.registration-container {
+      background-color: #67dce0;
+    }
+  </style>
+</head>
+
 <body class="registration-container">
-    <form id="registration-container" class="form" method="post">
-        <div class="container">
-          <h2 style="margin-top:100px; font-weight: bold; font-size: 40px; color: red; text-align: center;">SDE Registration Form</h2>
-          {% include 'software/include/message.html' %}
-          <hr>
-          {% csrf_token %}
-          {{ form.as_p }}
-          <button type="submit">Register</button>
+
+  <div class="container">
+    <h2 style="margin-top:100px; font-weight:bold; font-size:40px; color:red; text-align:center;">
+      SDE Registration Form
+    </h2>
+
+    <!-- message placeholder -->
+    <div id="message-container"></div>
+
+    <hr>
+
+    <!-- SAME form structure (no extra fields added) -->
+    <form id="registration-container" class="form">
+      <button type="submit" class="btn btn-primary">Register</button>
     </form>
-    <h5 class="my-2">Already user? <a href="{% url 'login' %}" style="color: blue;">Login Now</a></h5>
+
+    <h5 class="my-2">
+      Already user?
+      <a href="/login.html" style="color: blue;">Login Now</a>
+    </h5>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
-{% endblock content %}
+</html>

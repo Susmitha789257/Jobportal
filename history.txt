@@ -39,8 +39,8 @@ After=network.target
 [Service]
 User=ubuntu
 Group=www-data
-WorkingDirectory=/home/ubuntu/jobportal/PYTHON
-ExecStart=/home/ubuntu/jobportal/PYTHON/venv/bin/gunicorn \
+WorkingDirectory=/home/ubuntu/jobportal/Backend
+ExecStart=/home/ubuntu/jobportal/Backend/venv/bin/gunicorn \
           SDE_PROJECT.wsgi:application \
           --bind 127.0.0.1:8000 \
           --workers 3
@@ -61,11 +61,11 @@ server {
     server_name _;
 
     location /static/ {
-        alias /home/ubuntu/jobportal/PYTHON/staticfiles/;
+        alias /home/ubuntu/jobportal/Backend/staticfiles/;
     }
 
     location /media/ {
-        alias /home/ubuntu/jobportal/PYTHON/media/;
+        alias /home/ubuntu/jobportal/Backend/media/;
     }
 
     location / {
@@ -88,8 +88,8 @@ sudo chmod o+x /home/ubuntu
 sudo chmod o+x /home
 sudo chmod o+x /home/ubuntu/jobportal
 sudo systemctl restart nginx
-http://13.208.176.71/static/css/style.css
-http://13.208.176.71/static/images/logo2.png
+http://15.168.10.234/static/css/style.css
+http://15.168.10.234/static/images/logo2.png
 
 
 
@@ -102,5 +102,23 @@ STATICFILES_DIRS = [
 ]
 
 STATIC_ROOT = BASE_DIR / 'staticfiles'
+
+
+Frontend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

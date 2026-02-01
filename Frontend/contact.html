@@ -1,40 +1,150 @@
-{% extends 'software/layouts/bootstrap5.html' %}
-{% load static %}
-{% block title %}
-contact Page
-{% endblock title %}
-{% block content %}
-<style>
-.contact-body {
-  background: url("{% static 'images/one.jpg' %}") center/cover no-repeat;
-}
-</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Page</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Font Awesome -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+  <style>
+    body.contact-body {
+      background: url("images/one.jpg") center/cover no-repeat;
+      min-height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+
+    .contact-container {
+      display: flex;
+      gap: 40px;
+      margin-top: 30px;
+      padding: 30px;
+    }
+
+    .contact-info,
+    .contact-form {
+      background: rgba(255, 255, 255, 0.88);
+      padding: 25px;
+      border-radius: 10px;
+      width: 50%;
+    }
+
+    .contact-label {
+      font-weight: bold;
+      color: red;
+    }
+
+    .contact-info-item {
+      margin-bottom: 15px;
+    }
+
+    .contact-submit {
+      background-color: blue;
+      color: white;
+      border: none;
+      padding: 8px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .contact-submit:hover {
+      background-color: darkblue;
+    }
+  </style>
+</head>
+
 <body class="contact-body">
-    <h2 class="contact-h1" style="margin-top:70px; font-weight: bold; font-size: 40px; color: red;">Contact Us </h2>
+
+  <!-- Navbar include -->
+  <div id="navbar"></div>
+
+  <div class="container">
+    <h2 style="margin-top:70px; font-weight:bold; font-size:40px; color:red;">
+      Contact Us
+    </h2>
+
     <div class="contact-container">
-        <div class="contact-info">
-            <div class="contact-info-item">
-                <label for="address" class="contact-label"><i class="fas fa-map-marker-alt contact-icon"></i> Address:</label>
-                <span>7/21, Parthasarathypuram Rd, Parthsarathy Puram, T. Nagar, Chennai, Tamil Nadu 600017</span>
-            </div>
-            <div class="contact-info-item">
-                <label for="phone" class="contact-label"><i class="fas fa-phone contact-icon"></i> Phone no:</label>
-                <span>+91 9492760216</span>
-            </div>
-            <div class="contact-info-item">
-                <label for="email" class="contact-label"><i class="fas fa-envelope contact-icon"></i> Email:</label>
-                <span><a href="mailto:atigaddasusmitha789@gmail.com">atigaddasusmitha789@gmail.com</a></span>
-            </div>
+
+      <!-- Contact Info -->
+      <div class="contact-info">
+        <div class="contact-info-item">
+          <label class="contact-label">
+            <i class="fas fa-map-marker-alt"></i> Address:
+          </label>
+          <div>
+            7/21, Parthasarathypuram Rd, Parthsarathy Puram,  
+            T. Nagar, Chennai, Tamil Nadu 600017
+          </div>
         </div>
-        <div class="contact-form">
-            {% include 'software/include/message.html' %}
-            <form action="{% url 'contact' %}" method="post">
-                {% csrf_token %}
-                {{ form.as_p }}
-                <input type="submit" value="Send Message" class="contact-submit">
-            </form>
-            <a href="{% url 'history' %}" style="color: blue; font-weight: bold;">View History</a>
+
+        <div class="contact-info-item">
+          <label class="contact-label">
+            <i class="fas fa-phone"></i> Phone:
+          </label>
+          <div>+91 9492760216</div>
         </div>
+
+        <div class="contact-info-item">
+          <label class="contact-label">
+            <i class="fas fa-envelope"></i> Email:
+          </label>
+          <div>
+            <a href="mailto:atigaddasusmitha789@gmail.com">
+              atigaddasusmitha789@gmail.com
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Contact Form -->
+      <div class="contact-form">
+
+        <!-- Static success message (optional) -->
+        <div class="alert alert-success d-none" id="successMsg">
+          Message sent successfully
+        </div>
+
+        <form>
+          <div class="mb-3">
+            <label>Name</label>
+            <input type="text" class="form-control" placeholder="Enter your name">
+          </div>
+
+          <div class="mb-3">
+            <label>Email</label>
+            <input type="email" class="form-control" placeholder="Enter your email">
+          </div>
+
+          <div class="mb-3">
+            <label>Message</label>
+            <textarea class="form-control" rows="4" placeholder="Enter your message"></textarea>
+          </div>
+
+          <input type="submit" value="Send Message" class="contact-submit">
+        </form>
+
+        <br>
+        <a href="history.html" style="color: blue; font-weight: bold;">
+          View History
+        </a>
+
+      </div>
     </div>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Navbar loader -->
+  <script>
+    fetch("include/navbar.html")
+      .then(res => res.text())
+      .then(data => document.getElementById("navbar").innerHTML = data);
+  </script>
+
 </body>
-{% endblock content %}
+</html>
