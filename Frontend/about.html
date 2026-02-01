@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Us</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/register.css">
+
+  <style>
+    h2 { color: #ff00d0; }
+    h3 { color: #0066cc; }
+    p { line-height: 1.5; }
+    hr { border-top: 2px solid #0066cc; }
+    strong { font-weight: bold; }
+  </style>
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+<div id="navbar"></div>
+
+<!-- SLIDER -->
+<div class="container-fluid p-0">
+  <img src="/images/about.jpg" class="img-fluid w-100" alt="About Slider">
+</div>
+
+<div class="container" style="margin-top: 30px;">
+  <div class="row">
+    <div class="col-md-3">
+      <img src="/images/about1.jpg" class="img-fluid" alt="Company Image">
+    </div>
+
+    <div class="col-md-9">
+      <h2>About Us</h2>
+
+      <p><strong>Software Development Engineer (SDE)</strong> is a professional who designs, develops, tests, and maintains software applications. This role requires strong programming knowledge and system design skills.</p>
+
+      <h3>Programming Skills</h3>
+      <p>Proficiency in languages like Python, Java, JavaScript, C++, etc.</p>
+
+      <h3>Problem Solving</h3>
+      <p>Designing efficient algorithms and troubleshooting complex issues.</p>
+
+      <h3>Software Architecture</h3>
+      <p>Building scalable and maintainable systems using best practices.</p>
+
+      <h3>Development Life Cycle</h3>
+      <p>Involvement from requirement analysis to deployment and maintenance.</p>
+
+      <h3>Collaboration</h3>
+      <p>Working with engineers, product managers, and designers.</p>
+
+      <h3>Version Control</h3>
+      <p>Using Git to manage and track code changes.</p>
+
+      <h3>Agile Methodologies</h3>
+      <p>Experience with Scrum or Kanban frameworks.</p>
+
+      <h3>Testing & Debugging</h3>
+      <p>Writing unit tests, debugging, and ensuring quality.</p>
+
+      <h3>CI/CD</h3>
+      <p>Automating build, test, and deployment pipelines.</p>
+
+      <h3>Security</h3>
+      <p>Implementing secure coding practices.</p>
+
+      <h3>Performance Optimization</h3>
+      <p>Improving application speed and efficiency.</p>
+
+      <h3>Cloud Computing</h3>
+      <p>Deploying and managing applications on cloud platforms.</p>
+
+      <h3>Automation</h3>
+      <p>Reducing manual effort using automation tools.</p>
+
+      <h3>Team Leadership</h3>
+      <p>Guiding teams and mentoring junior developers.</p>
+
+      <h3>Continuous Learning</h3>
+      <p>Keeping skills updated with industry trends.</p>
+
+      <h2>Contact Us</h2>
+      <p>
+        Have questions?  
+        <a href="/contact.html">Click here to contact us</a>.
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<div id="footer"></div>
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+
+<!-- Load navbar & footer -->
+<script>
+  fetch("/include/navbar.html")
+    .then(r => r.text())
+    .then(d => document.getElementById("navbar").innerHTML = d);
+
+  fetch("/include/footer.html")
+    .then(r => r.text())
+    .then(d => document.getElementById("footer").innerHTML = d);
+</script>
+
+</body>
+</html>

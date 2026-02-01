@@ -1,0 +1,65 @@
+{% extends 'software/layouts/bootstrap5.html' %}
+{% block title %}
+  Login Page
+{% endblock title %}
+{% block content %}
+  <style>
+    body {
+      background: linear-gradient(to right, #dde08d, #85de88, #67dce0);
+    }
+    .center-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh; /* Adjust as needed for your layout */
+    }
+    .login-form {
+      max-width: 400px; /* Adjust as needed for your layout */
+      width: 105%;
+      border: 2px solid rgb(211, 169, 211); /* Add border */
+      padding: 15px;
+      background-color: #ff00ae; /* Add background color */
+      border-radius: 10px; /* Optional: Add border-radius for rounded corners */
+    }
+  </style>
+  <div class="container center-container" style="margin-top: 30px;">
+    <div class="row">
+      <div class="col-12">
+        {% include 'software/include/message1.html' %}
+        <header class="text-center mb-2">
+          <h2 class="text-primary font-weight-bold">SDE User Login Form</h2>
+        </header>
+      </div>
+    </div>
+    <section class="py-4">
+      <div class="container login-form">
+        <div class="row">
+          <div class="col-12">
+            <form method="post" action="">
+              {% csrf_token %}
+              <fieldset>
+                <legend class="visually-hidden">User Login</legend>
+                <div class="mb-4">
+                  <label for="username" class="form-label font-weight-bold text-green" style='color: purple; font-size: 25px;'>User Name :</label>
+                  <input type="text" name="username" id="username" class="form-control" style='width: 100%;' placeholder="Enter User Name">
+                </div>
+                <div class="mb-4">
+                  <label for="password" class="form-label font-weight-bold text-greenr" style='color: purple; font-size: 25px;'>Password :</label>
+                  <input type="password" name="password" id="password" class="form-control" style='width: 100%;' placeholder="Enter Password">
+                </div>
+                <button type="submit" class="btn btn-primary mb-2" style="width: 100%;">Login</button>
+                <a href="{% url 'password_reset' %}" class="mb-2 d-block text-center">Forgot Password?</a>
+              </fieldset>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="row mt-3">
+        <div class="col-12 text-center">
+            <p>Don't have an account? <a href="{% url 'register' %}">Create New Account</a></p>
+        </div>
+      </div>
+    </section>
+  </div>
+{% endblock content %}

@@ -6,7 +6,7 @@ python3 -m venv venv
 source venv/bin/activate
 sudo apt install mysql-server -y
 sudo systemctl start mysql
-sudo systemctl enable MySQL
+sudo systemctl enable mysql
 mysql
 CREATE USER 'jobuser'@'localhost' IDENTIFIED BY 'Susmitha@789';
 GRANT ALL PRIVILEGES ON jobportal.* TO 'jobuser'@'localhost';
@@ -22,6 +22,9 @@ sudo apt install -y   default-libmysqlclient-dev   build-essential   pkg-config 
 pip install mysqlclient
 python3 manage.py makemigrations
 python3 manage.py migrate
+
+python3 manage.py collectstatic
+
 python manage.py runserver 0.0.0.0:8000
 vi settings.py [Host *]
 pip install gunicorn
@@ -89,10 +92,9 @@ http://13.208.176.71/static/css/style.css
 http://13.208.176.71/static/images/logo2.png
 
 
-python manage.py collectstatic
 
 
-settings.py
+
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = [

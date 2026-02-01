@@ -1,0 +1,22 @@
+<!-- Message container (used by JavaScript) -->
+<div id="message-container"></div>
+
+<script>
+  // Example function to show a message
+  function showMessage(messageText) {
+    const container = document.getElementById("message-container");
+
+    container.innerHTML = `
+      <div class="alert alert-info alert-dismissible fade show"
+           style="font-weight: bold; color: black; background-color: rgb(105, 242, 121);"
+           role="alert">
+        ${messageText}
+        <button type="button" class="btn-close" data-bs-dismiss="alert"
+                aria-label="Close"></button>
+      </div>
+    `;
+  }
+
+  // Example usage:
+  // showMessage("Job applied successfully!");
+</script>

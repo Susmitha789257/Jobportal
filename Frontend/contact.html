@@ -1,0 +1,40 @@
+{% extends 'software/layouts/bootstrap5.html' %}
+{% load static %}
+{% block title %}
+contact Page
+{% endblock title %}
+{% block content %}
+<style>
+.contact-body {
+  background: url("{% static 'images/one.jpg' %}") center/cover no-repeat;
+}
+</style>
+<body class="contact-body">
+    <h2 class="contact-h1" style="margin-top:70px; font-weight: bold; font-size: 40px; color: red;">Contact Us </h2>
+    <div class="contact-container">
+        <div class="contact-info">
+            <div class="contact-info-item">
+                <label for="address" class="contact-label"><i class="fas fa-map-marker-alt contact-icon"></i> Address:</label>
+                <span>7/21, Parthasarathypuram Rd, Parthsarathy Puram, T. Nagar, Chennai, Tamil Nadu 600017</span>
+            </div>
+            <div class="contact-info-item">
+                <label for="phone" class="contact-label"><i class="fas fa-phone contact-icon"></i> Phone no:</label>
+                <span>+91 9492760216</span>
+            </div>
+            <div class="contact-info-item">
+                <label for="email" class="contact-label"><i class="fas fa-envelope contact-icon"></i> Email:</label>
+                <span><a href="mailto:atigaddasusmitha789@gmail.com">atigaddasusmitha789@gmail.com</a></span>
+            </div>
+        </div>
+        <div class="contact-form">
+            {% include 'software/include/message.html' %}
+            <form action="{% url 'contact' %}" method="post">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <input type="submit" value="Send Message" class="contact-submit">
+            </form>
+            <a href="{% url 'history' %}" style="color: blue; font-weight: bold;">View History</a>
+        </div>
+    </div>
+</body>
+{% endblock content %}

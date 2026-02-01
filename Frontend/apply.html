@@ -1,0 +1,67 @@
+{% extends 'software/layouts/bootstrap5.html' %}
+{% load static %}
+{% block title %}
+    Application Form
+{% endblock title %}
+{% block content %}
+<style>
+.apply-body {
+  background: url("{% static 'images/hero.jpg' %}") center/cover no-repeat;
+}
+  .table-container {
+      background-color: rgb(162, 188, 240);
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 20px;
+      width: 40%; 
+      margin: auto; 
+      text-align: center;
+  }
+
+  table {
+      width: 90%;
+      margin: auto;
+  }
+
+  table tr,
+  table td {
+      padding: 8px;
+  }
+
+  table th {
+      background-color: rgb(230, 255, 172);
+      padding: 8px;
+      text-align: center;
+  }
+
+  button {
+      margin-top: 10px;
+  }
+</style>
+<body class="apply-body">
+<h2 class="apply-h1" style="margin-top:80px; text-align: center; color: blue;">Job Application Form </h2>
+{% if success_message %}
+    <div class="alert alert-success" style="background-color: red; color: white; padding: 6px; margin-top: 10px; border-radius: 5px; text-align: center;">
+        {{ success_message }}
+    </div>
+{% endif %}
+<div class="table-container">
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <table>
+            {% for field in form %}
+                <tr>
+                    <th>{{ field.label_tag }}</th>
+                    <td>{{ field }}</td>
+                </tr>
+            {% endfor %}
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <button type="submit">Submit</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+</body>
+{% endblock content %}
