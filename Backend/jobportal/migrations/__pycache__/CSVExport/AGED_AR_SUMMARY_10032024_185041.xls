@@ -1,0 +1,4319 @@
+<?xml version="1.0"?><?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns='urn:schemas-microsoft-com:office:spreadsheet' xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns:ss='urn:schemas-microsoft-com:office:spreadsheet' xmlns:html='http://www.w3.org/TR/REC-html40'> <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2024-10-03T18:50:41Z</Created>
+  <LastSaved>2024-10-03T18:50:41Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6915</WindowHeight>
+  <WindowWidth>9495</WindowWidth>
+  <WindowTopX>360</WindowTopX>
+  <WindowTopY>75</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#002060"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16" ss:Color="#002060"
+    ss:Bold="1"/>
+  </Style>
+<Style ss:ID="s62">
+	<NumberFormat ss:Format="&quot;$&quot;#,##0.00"/>
+</Style>
+ </Styles>
+ <Worksheet ss:Name="AR - Oct 3, 2024">
+  <Table ss:ExpandedColumnCount="20" x:FullColumns="1" x:FullRows="1"> 
+<Column /><Column /><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/><Column ss:StyleID="s62"/>   <Row >
+    <Cell ss:MergeAcross="11" ss:StyleID="s66"><Data ss:Type="String">AGED A/R REPORT SUMMARY</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s66"><Data ss:Type="String">Date : 10/03/2024</Data></Cell>   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s16">
+    <Cell><Data ss:Type="String">CUST.# </Data></Cell>
+    <Cell><Data ss:Type="String">NAME</Data></Cell>
+    <Cell><Data ss:Type="String">A/R BALANCE</Data></Cell>
+    <Cell><Data ss:Type="String">INV.AMT</Data></Cell>
+    <Cell><Data ss:Type="String">PAYMENTS</Data></Cell>
+    <Cell><Data ss:Type="String">DEB/CRED</Data></Cell>
+    <Cell><Data ss:Type="String">FUTURES</Data></Cell>
+    <Cell><Data ss:Type="String">CURRENT</Data></Cell>
+    <Cell><Data ss:Type="String">1 - 30</Data></Cell>
+    <Cell><Data ss:Type="String">31 - 60</Data></Cell>
+    <Cell><Data ss:Type="String">61 - 90</Data></Cell>
+    <Cell><Data ss:Type="String">OVER - 90</Data></Cell>
+   </Row>
+   <Row>
+   <Cell><Data ss:Type="String">01BA    </Data></Cell>
+   <Cell><Data ss:Type="String">BARRY'S APPLIANCE AND TV</Data></Cell>
+
+   732-805-9513     52218.71              <Cell><Data ss:Type="Number">52218.71</Data></Cell>
+   <Cell><Data ss:Type="Number">252898.85</Data></Cell>
+   <Cell><Data ss:Type="Number">200680.14</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">52218.71</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">02AD    </Data></Cell>
+   <Cell><Data ss:Type="String">AJAY DISC.APPL.AND VIDEO</Data></Cell>
+
+   732-341-1100     38163.40              <Cell><Data ss:Type="Number">38163.4</Data></Cell>
+   <Cell><Data ss:Type="Number">110410.31</Data></Cell>
+   <Cell><Data ss:Type="Number">72246.91</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">38163.4</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">03CO    </Data></Cell>
+   <Cell><Data ss:Type="String">COLONIAL TELEVISION     </Data></Cell>
+
+   973-927-0092     23257.16              <Cell><Data ss:Type="Number">23257.16</Data></Cell>
+   <Cell><Data ss:Type="Number">78400.58</Data></Cell>
+   <Cell><Data ss:Type="Number">55143.42</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">23257.16</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">04BR    </Data></Cell>
+   <Cell><Data ss:Type="String">BRUBAKER INC.</Data></Cell>
+
+   717-299-5643     38732.55              <Cell><Data ss:Type="Number">38732.55</Data></Cell>
+   <Cell><Data ss:Type="Number">133847.22</Data></Cell>
+   <Cell><Data ss:Type="Number">95114.67</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">38732.55</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">05JO    </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE DRIVEN INC.</Data></Cell>
+
+   914-664-5160     29598.51              <Cell><Data ss:Type="Number">29598.51</Data></Cell>
+   <Cell><Data ss:Type="Number">67159.13</Data></Cell>
+   <Cell><Data ss:Type="Number">37560.62</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">29598.51</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">06NP    </Data></Cell>
+   <Cell><Data ss:Type="String">NEW PROVIDENCE ELECTRONI</Data></Cell>
+
+   908-665-1212     61770.25              <Cell><Data ss:Type="Number">61770.25</Data></Cell>
+   <Cell><Data ss:Type="Number">389893.93</Data></Cell>
+   <Cell><Data ss:Type="Number">328123.68</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-805.35</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">62575.6</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">07BL    </Data></Cell>
+   <Cell><Data ss:Type="String">BETTER LIVING           </Data></Cell>
+
+   732-521-1555     48379.23              <Cell><Data ss:Type="Number">48379.23</Data></Cell>
+   <Cell><Data ss:Type="Number">229455.96</Data></Cell>
+   <Cell><Data ss:Type="Number">181076.73</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-29.84</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">48409.07</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">08AA    </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE ALLIANCE</Data></Cell>
+
+   610-983-9161     42449.52              <Cell><Data ss:Type="Number">42449.52</Data></Cell>
+   <Cell><Data ss:Type="Number">173274.21</Data></Cell>
+   <Cell><Data ss:Type="Number">130824.69</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">42449.52</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">09KF    </Data></Cell>
+   <Cell><Data ss:Type="String">KIEFFER'S APPLIANCE INC.</Data></Cell>
+
+   215-699-3522     76011.48              <Cell><Data ss:Type="Number">76011.48</Data></Cell>
+   <Cell><Data ss:Type="Number">921102.6</Data></Cell>
+   <Cell><Data ss:Type="Number">845091.12</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-7898.61</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">83910.09</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">100A1   </Data></Cell>
+   <Cell><Data ss:Type="String">A-1 APPLIANCE SALES&SERV</Data></Cell>
+
+   856-461-0156     27604.29              <Cell><Data ss:Type="Number">27604.29</Data></Cell>
+   <Cell><Data ss:Type="Number">44942.9</Data></Cell>
+   <Cell><Data ss:Type="Number">17338.61</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-498.65</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">28102.94</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">101MV   </Data></Cell>
+   <Cell><Data ss:Type="String">MIKE'S VIDEO TV AND APPL</Data></Cell>
+
+   814-237-1515     56211.59              <Cell><Data ss:Type="Number">56211.59</Data></Cell>
+   <Cell><Data ss:Type="Number">275251.83</Data></Cell>
+   <Cell><Data ss:Type="Number">219040.24</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-631.05</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">56842.64</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">102SC   </Data></Cell>
+   <Cell><Data ss:Type="String">SCHULBERGER'S INC</Data></Cell>
+
+   215-538-1800     31198.90              <Cell><Data ss:Type="Number">31198.9</Data></Cell>
+   <Cell><Data ss:Type="Number">88534.3</Data></Cell>
+   <Cell><Data ss:Type="Number">57335.4</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">31198.9</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">103RA   </Data></Cell>
+   <Cell><Data ss:Type="String">RAY'S APPLIANCES</Data></Cell>
+
+   610-825-7297     47095.91              <Cell><Data ss:Type="Number">47095.91</Data></Cell>
+   <Cell><Data ss:Type="Number">304560.74</Data></Cell>
+   <Cell><Data ss:Type="Number">257464.83</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">47095.91</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">104YU   </Data></Cell>
+   <Cell><Data ss:Type="String">YUDIN'S INC.</Data></Cell>
+
+   201-891-3111     59359.82              <Cell><Data ss:Type="Number">59359.82</Data></Cell>
+   <Cell><Data ss:Type="Number">546180.29</Data></Cell>
+   <Cell><Data ss:Type="Number">486820.47</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">59359.82</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">105TG   </Data></Cell>
+   <Cell><Data ss:Type="String">TRIANGLE TV SRV ANS SALE</Data></Cell>
+
+   201-436-3440     25812.54              <Cell><Data ss:Type="Number">25812.54</Data></Cell>
+   <Cell><Data ss:Type="Number">54676.43</Data></Cell>
+   <Cell><Data ss:Type="Number">28863.89</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1038.76</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">26851.3</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">106RO   </Data></Cell>
+   <Cell><Data ss:Type="String">ROSENDAHL'S APPLIANCE</Data></Cell>
+
+   724-863-7150     16226.22              <Cell><Data ss:Type="Number">16226.22</Data></Cell>
+   <Cell><Data ss:Type="Number">85882.25</Data></Cell>
+   <Cell><Data ss:Type="Number">69656.03</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">16226.22</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">107MO   </Data></Cell>
+   <Cell><Data ss:Type="String">MORRISSEY TV AND APPL</Data></Cell>
+
+   717-628-1731     42900.53              <Cell><Data ss:Type="Number">42900.53</Data></Cell>
+   <Cell><Data ss:Type="Number">121940.38</Data></Cell>
+   <Cell><Data ss:Type="Number">79039.85</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">42900.53</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">108SQ   </Data></Cell>
+   <Cell><Data ss:Type="String">SQUIRES ELECTRONICS</Data></Cell>
+
+   717-263-4960     42920.81              <Cell><Data ss:Type="Number">42920.81</Data></Cell>
+   <Cell><Data ss:Type="Number">156372.78</Data></Cell>
+   <Cell><Data ss:Type="Number">113451.97</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">42920.81</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">109SL   </Data></Cell>
+   <Cell><Data ss:Type="String">SALTZER'S APPLIANCE</Data></Cell>
+
+   610-377-4172      2957.23              <Cell><Data ss:Type="Number">2957.23</Data></Cell>
+   <Cell><Data ss:Type="Number">2957.23</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1000</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">3957.23</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">10MR    </Data></Cell>
+   <Cell><Data ss:Type="String">MRS G                   </Data></Cell>
+
+   609-882-1444     63505.59              <Cell><Data ss:Type="Number">63505.59</Data></Cell>
+   <Cell><Data ss:Type="Number">388297.77</Data></Cell>
+   <Cell><Data ss:Type="Number">324792.18</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">63505.59</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">110KA   </Data></Cell>
+   <Cell><Data ss:Type="String">KASPER TV AND APPLIANCE</Data></Cell>
+
+   610-777-6551     58629.77              <Cell><Data ss:Type="Number">58629.77</Data></Cell>
+   <Cell><Data ss:Type="Number">191705.39</Data></Cell>
+   <Cell><Data ss:Type="Number">133075.62</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1491.24</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">60121.01</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">111AU   </Data></Cell>
+   <Cell><Data ss:Type="String">AUREL'S T.V. &APPLIANCES</Data></Cell>
+
+   570-689-9757     29028.63              <Cell><Data ss:Type="Number">29028.63</Data></Cell>
+   <Cell><Data ss:Type="Number">86876.31</Data></Cell>
+   <Cell><Data ss:Type="Number">57847.68</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">29028.63</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">112KR   </Data></Cell>
+   <Cell><Data ss:Type="String">KRISAY'S INC.</Data></Cell>
+
+   814-536-3287     73920.71              <Cell><Data ss:Type="Number">73920.71</Data></Cell>
+   <Cell><Data ss:Type="Number">215540.91</Data></Cell>
+   <Cell><Data ss:Type="Number">141620.2</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-601</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">74521.71</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">113DS   </Data></Cell>
+   <Cell><Data ss:Type="String">DANIEL SHAFFER'S INC.</Data></Cell>
+
+   814-798-6211     10752.65              <Cell><Data ss:Type="Number">10752.65</Data></Cell>
+   <Cell><Data ss:Type="Number">47235.49</Data></Cell>
+   <Cell><Data ss:Type="Number">36482.84</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">10752.65</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">114BV   </Data></Cell>
+   <Cell><Data ss:Type="String">BILL VANDEGRIFT INC.</Data></Cell>
+
+   215-345-1892     55391.42              <Cell><Data ss:Type="Number">55391.42</Data></Cell>
+   <Cell><Data ss:Type="Number">198743.01</Data></Cell>
+   <Cell><Data ss:Type="Number">143351.59</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">55391.42</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">115DI   </Data></Cell>
+   <Cell><Data ss:Type="String">DIAMOND SUPPLY CO.</Data></Cell>
+
+   814-695-0581     32946.80              <Cell><Data ss:Type="Number">32946.8</Data></Cell>
+   <Cell><Data ss:Type="Number">80519.81</Data></Cell>
+   <Cell><Data ss:Type="Number">47573.01</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">32946.8</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">116BW   </Data></Cell>
+   <Cell><Data ss:Type="String">BROCKWAY APPLIANCE</Data></Cell>
+
+   814-265-1101      9530.54              <Cell><Data ss:Type="Number">9530.54</Data></Cell>
+   <Cell><Data ss:Type="Number">44046.18</Data></Cell>
+   <Cell><Data ss:Type="Number">34515.64</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">9530.54</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">117WH   </Data></Cell>
+   <Cell><Data ss:Type="String">ELK COUNTY WHA INC. DBA</Data></Cell>
+
+   814-781-1581     17142.27              <Cell><Data ss:Type="Number">17142.27</Data></Cell>
+   <Cell><Data ss:Type="Number">55862.44</Data></Cell>
+   <Cell><Data ss:Type="Number">38720.17</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-520.69</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">17662.96</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">118AR   </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE REPLACEMENT</Data></Cell>
+
+   800-253-3855      6595.79              <Cell><Data ss:Type="Number">6595.79</Data></Cell>
+   <Cell><Data ss:Type="Number">97783.92</Data></Cell>
+   <Cell><Data ss:Type="Number">91188.13</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">6595.79</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">119MT   </Data></Cell>
+   <Cell><Data ss:Type="String">MARTIN APPLIANCE</Data></Cell>
+
+   717-866-7555     89705.24              <Cell><Data ss:Type="Number">89705.24</Data></Cell>
+   <Cell><Data ss:Type="Number">1569922.87</Data></Cell>
+   <Cell><Data ss:Type="Number">1480217.63</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-6567.56</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">96272.8</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">11JE    </Data></Cell>
+   <Cell><Data ss:Type="String">JOHNSON'S ELECTRIC</Data></Cell>
+
+   609-399-1598     22114.73              <Cell><Data ss:Type="Number">22114.73</Data></Cell>
+   <Cell><Data ss:Type="Number">461224.86</Data></Cell>
+   <Cell><Data ss:Type="Number">439110.13</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">22114.73</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">121CA   </Data></Cell>
+   <Cell><Data ss:Type="String">CHARLOTTE APPLIANCE</Data></Cell>
+
+   585-663-5050    147089.13              <Cell><Data ss:Type="Number">147089.13</Data></Cell>
+   <Cell><Data ss:Type="Number">508951.95</Data></Cell>
+   <Cell><Data ss:Type="Number">361862.82</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-12850.54</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">159939.67</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">122PC   </Data></Cell>
+   <Cell><Data ss:Type="String">DAVID'S SUPPLIES</Data></Cell>
+
+   609-522-2629     10009.43              <Cell><Data ss:Type="Number">10009.43</Data></Cell>
+   <Cell><Data ss:Type="Number">33025.61</Data></Cell>
+   <Cell><Data ss:Type="Number">23016.18</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-5.97</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">10015.4</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">123BC   </Data></Cell>
+   <Cell><Data ss:Type="String">BIG CENTRIC HOME APPL</Data></Cell>
+
+   302-304-1010     47073.48              <Cell><Data ss:Type="Number">47073.48</Data></Cell>
+   <Cell><Data ss:Type="Number">234672.58</Data></Cell>
+   <Cell><Data ss:Type="Number">187599.1</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">47073.48</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">124NA   </Data></Cell>
+   <Cell><Data ss:Type="String">NATIONAL APPLIANCE WHSE</Data></Cell>
+
+   302-543-7636     96319.67              <Cell><Data ss:Type="Number">96319.67</Data></Cell>
+   <Cell><Data ss:Type="Number">597048.91</Data></Cell>
+   <Cell><Data ss:Type="Number">500729.24</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">96319.67</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">125DW   </Data></Cell>
+   <Cell><Data ss:Type="String">DELAWARE APPL DISTRIB</Data></Cell>
+
+   302-732-3456      4170.42              <Cell><Data ss:Type="Number">4170.42</Data></Cell>
+   <Cell><Data ss:Type="Number">33183.58</Data></Cell>
+   <Cell><Data ss:Type="Number">29013.16</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">4170.42</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">126HM   </Data></Cell>
+   <Cell><Data ss:Type="String">B AND H THE HOME MARKET</Data></Cell>
+
+   215-679-7124     28705.36              <Cell><Data ss:Type="Number">28705.36</Data></Cell>
+   <Cell><Data ss:Type="Number">76354.11</Data></Cell>
+   <Cell><Data ss:Type="Number">47648.75</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-250</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">28955.36</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">127NF   </Data></Cell>
+   <Cell><Data ss:Type="String">N.F.LANDIS AND SON INC</Data></Cell>
+
+   215-723-6722     54480.13              <Cell><Data ss:Type="Number">54480.13</Data></Cell>
+   <Cell><Data ss:Type="Number">178782.74</Data></Cell>
+   <Cell><Data ss:Type="Number">124302.61</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-150.47</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">54630.6</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">128LO   </Data></Cell>
+   <Cell><Data ss:Type="String">LONGACRE ELECTRICAL</Data></Cell>
+
+   610-845-2261      7216.19              <Cell><Data ss:Type="Number">7216.19</Data></Cell>
+   <Cell><Data ss:Type="Number">16434.26</Data></Cell>
+   <Cell><Data ss:Type="Number">9218.07</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">7216.19</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">129HH   </Data></Cell>
+   <Cell><Data ss:Type="String">H AND H FURN AND APPL</Data></Cell>
+
+   410-957-3466      8306.05              <Cell><Data ss:Type="Number">8306.05</Data></Cell>
+   <Cell><Data ss:Type="Number">46020.59</Data></Cell>
+   <Cell><Data ss:Type="Number">37714.54</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">8306.05</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">130PH   </Data></Cell>
+   <Cell><Data ss:Type="String">PETERS HOME APPLIANCE CT</Data></Cell>
+
+   570-286-8911     17336.80              <Cell><Data ss:Type="Number">17336.8</Data></Cell>
+   <Cell><Data ss:Type="Number">43492.06</Data></Cell>
+   <Cell><Data ss:Type="Number">26155.26</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">17336.8</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">131CM   </Data></Cell>
+   <Cell><Data ss:Type="String">COASTAL MAYTAG</Data></Cell>
+
+   302-537-2688    103164.27              <Cell><Data ss:Type="Number">103164.27</Data></Cell>
+   <Cell><Data ss:Type="Number">120303.07</Data></Cell>
+   <Cell><Data ss:Type="Number">17138.8</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-59936.44</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">163100.71</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">132OB   </Data></Cell>
+   <Cell><Data ss:Type="String">OBERG AND LINQUIST</Data></Cell>
+
+   201-664-1300     61897.50              <Cell><Data ss:Type="Number">61897.5</Data></Cell>
+   <Cell><Data ss:Type="Number">429586.38</Data></Cell>
+   <Cell><Data ss:Type="Number">367688.88</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1508.58</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">63406.08</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">133FD   </Data></Cell>
+   <Cell><Data ss:Type="String">F AND D ENTERPRISES</Data></Cell>
+
+   609-702-0095     14149.01              <Cell><Data ss:Type="Number">14149.01</Data></Cell>
+   <Cell><Data ss:Type="Number">19906.34</Data></Cell>
+   <Cell><Data ss:Type="Number">5757.33</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">14149.01</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">134SS   </Data></Cell>
+   <Cell><Data ss:Type="String">S AND S APPLIANCE</Data></Cell>
+
+   814-623-6211     42332.20              <Cell><Data ss:Type="Number">42332.2</Data></Cell>
+   <Cell><Data ss:Type="Number">102513.59</Data></Cell>
+   <Cell><Data ss:Type="Number">60181.39</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">42332.2</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">135VA   </Data></Cell>
+   <Cell><Data ss:Type="String">AUDIO VIDEO APPL CENTER</Data></Cell>
+
+   814-765-7027      4604.70-             <Cell><Data ss:Type="Number">4604.7</Data></Cell>
+   <Cell><Data ss:Type="Number">10173.29</Data></Cell>
+   <Cell><Data ss:Type="Number">14777.99</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-13180.6</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">8575.9</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">136SY   </Data></Cell>
+   <Cell><Data ss:Type="String">DAVE'S TV AND APPLIANCE</Data></Cell>
+
+   609-492-0189     13533.84              <Cell><Data ss:Type="Number">13533.84</Data></Cell>
+   <Cell><Data ss:Type="Number">53028.21</Data></Cell>
+   <Cell><Data ss:Type="Number">39494.37</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">13533.84</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">137BT   </Data></Cell>
+   <Cell><Data ss:Type="String">BEITERS HOME CENTER</Data></Cell>
+
+   570-326-2073     11707.82              <Cell><Data ss:Type="Number">11707.82</Data></Cell>
+   <Cell><Data ss:Type="Number">273482.64</Data></Cell>
+   <Cell><Data ss:Type="Number">261774.82</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">11707.82</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">138PF   </Data></Cell>
+   <Cell><Data ss:Type="String">PARK FURNITURE STORE</Data></Cell>
+
+   814-944-0887     42798.23              <Cell><Data ss:Type="Number">42798.23</Data></Cell>
+   <Cell><Data ss:Type="Number">143998.2</Data></Cell>
+   <Cell><Data ss:Type="Number">101199.97</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-455.44</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">43253.67</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">139HB   </Data></Cell>
+   <Cell><Data ss:Type="String">HOMETOWN BRAND CENTER</Data></Cell>
+
+   610-588-6294     41255.31              <Cell><Data ss:Type="Number">41255.31</Data></Cell>
+   <Cell><Data ss:Type="Number">166923.11</Data></Cell>
+   <Cell><Data ss:Type="Number">125667.8</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">41255.31</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">13AG    </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE GALLERY       </Data></Cell>
+
+   732-269-4744     64894.92              <Cell><Data ss:Type="Number">64894.92</Data></Cell>
+   <Cell><Data ss:Type="Number">255902.74</Data></Cell>
+   <Cell><Data ss:Type="Number">191007.82</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">64894.92</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">140MU   </Data></Cell>
+   <Cell><Data ss:Type="String">MUNDEL'S APPLIANCE</Data></Cell>
+
+   724-437-7514      8227.66              <Cell><Data ss:Type="Number">8227.66</Data></Cell>
+   <Cell><Data ss:Type="Number">8874.69</Data></Cell>
+   <Cell><Data ss:Type="Number">395.4</Data></Cell>
+   <Cell><Data ss:Type="Number">251.63</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">8227.66</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">141GN   </Data></Cell>
+   <Cell><Data ss:Type="String">GOCHNAUER HOME APPL. CT</Data></Cell>
+
+   717-569-0439     41051.85              <Cell><Data ss:Type="Number">41051.85</Data></Cell>
+   <Cell><Data ss:Type="Number">97013.99</Data></Cell>
+   <Cell><Data ss:Type="Number">55962.14</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">41051.85</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">142DY   </Data></Cell>
+   <Cell><Data ss:Type="String">DALYS APPLIANCE</Data></Cell>
+
+   330-745-2131     50687.82              <Cell><Data ss:Type="Number">50687.82</Data></Cell>
+   <Cell><Data ss:Type="Number">210245.48</Data></Cell>
+   <Cell><Data ss:Type="Number">159557.66</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">50687.82</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">143FI   </Data></Cell>
+   <Cell><Data ss:Type="String">FINCH SERVICES INC.</Data></Cell>
+
+   717-632-2345        70.37              <Cell><Data ss:Type="Number">70.37</Data></Cell>
+   <Cell><Data ss:Type="Number">70.37</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">70.37</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">144PS   </Data></Cell>
+   <Cell><Data ss:Type="String">PARKERS APPLIANCE</Data></Cell>
+
+   724-445-3931      3339.45              <Cell><Data ss:Type="Number">3339.45</Data></Cell>
+   <Cell><Data ss:Type="Number">76302.02</Data></Cell>
+   <Cell><Data ss:Type="Number">72962.57</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">3339.45</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">145AL   </Data></Cell>
+   <Cell><Data ss:Type="String">ALL MAKE APPLIANCE SALES</Data></Cell>
+
+   718-313-0158     41888.12              <Cell><Data ss:Type="Number">41888.12</Data></Cell>
+   <Cell><Data ss:Type="Number">265452.99</Data></Cell>
+   <Cell><Data ss:Type="Number">223564.87</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-3767.25</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">45655.37</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">146DA   </Data></Cell>
+   <Cell><Data ss:Type="String">DAYS HOME FURN AND APPL</Data></Cell>
+
+   814-827-2731     24664.50              <Cell><Data ss:Type="Number">24664.5</Data></Cell>
+   <Cell><Data ss:Type="Number">80128.15</Data></Cell>
+   <Cell><Data ss:Type="Number">55463.65</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">24664.5</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">147HI   </Data></Cell>
+   <Cell><Data ss:Type="String">HIGHWAY APPLIANCE CO.</Data></Cell>
+
+   724-326-5616     17397.81              <Cell><Data ss:Type="Number">17397.81</Data></Cell>
+   <Cell><Data ss:Type="Number">39794.37</Data></Cell>
+   <Cell><Data ss:Type="Number">22396.56</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">17397.81</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">148FH   </Data></Cell>
+   <Cell><Data ss:Type="String">FRIEDHABER</Data></Cell>
+
+   814-676-5694     12307.18              <Cell><Data ss:Type="Number">12307.18</Data></Cell>
+   <Cell><Data ss:Type="Number">125327.77</Data></Cell>
+   <Cell><Data ss:Type="Number">113020.59</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">12307.18</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">149LA   </Data></Cell>
+   <Cell><Data ss:Type="String">LESHER'S APPLIANCE INC.</Data></Cell>
+
+   610-562-8577     25288.61              <Cell><Data ss:Type="Number">25288.61</Data></Cell>
+   <Cell><Data ss:Type="Number">72350.95</Data></Cell>
+   <Cell><Data ss:Type="Number">47062.34</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">25288.61</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">14CT    </Data></Cell>
+   <Cell><Data ss:Type="String">ADAM'S TV AND APPL. INC</Data></Cell>
+
+   732-968-1300     29856.12              <Cell><Data ss:Type="Number">29856.12</Data></Cell>
+   <Cell><Data ss:Type="Number">91988.63</Data></Cell>
+   <Cell><Data ss:Type="Number">62132.51</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1246</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">31102.12</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">150HW   </Data></Cell>
+   <Cell><Data ss:Type="String">HAWKINS AND SONS INC.</Data></Cell>
+
+   302-998-1010     64521.64              <Cell><Data ss:Type="Number">64521.64</Data></Cell>
+   <Cell><Data ss:Type="Number">213267.79</Data></Cell>
+   <Cell><Data ss:Type="Number">148746.15</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">64521.64</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">151RZ   </Data></Cell>
+   <Cell><Data ss:Type="String">ROZMAN BROTHERS INC.</Data></Cell>
+
+   717-236-9351     32406.47              <Cell><Data ss:Type="Number">32406.47</Data></Cell>
+   <Cell><Data ss:Type="Number">107149.66</Data></Cell>
+   <Cell><Data ss:Type="Number">74743.19</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">32406.47</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">152TA   </Data></Cell>
+   <Cell><Data ss:Type="String">TEATES APPLIANCE INC</Data></Cell>
+
+   717-444-3565     41171.31              <Cell><Data ss:Type="Number">41171.31</Data></Cell>
+   <Cell><Data ss:Type="Number">170332.07</Data></Cell>
+   <Cell><Data ss:Type="Number">129160.76</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">41171.31</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">153PP   </Data></Cell>
+   <Cell><Data ss:Type="String">PERLA'S APPLIANCE PLUS</Data></Cell>
+
+   412-271-6650     48789.65              <Cell><Data ss:Type="Number">48789.65</Data></Cell>
+   <Cell><Data ss:Type="Number">138976.38</Data></Cell>
+   <Cell><Data ss:Type="Number">90186.73</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">48789.65</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">154RP   </Data></Cell>
+   <Cell><Data ss:Type="String">RALPH'S APPLIANCE </Data></Cell>
+
+   610-759-5495     20868.32              <Cell><Data ss:Type="Number">20868.32</Data></Cell>
+   <Cell><Data ss:Type="Number">38888.68</Data></Cell>
+   <Cell><Data ss:Type="Number">18020.36</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-2876.77</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">23745.09</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">155AK   </Data></Cell>
+   <Cell><Data ss:Type="String">ALASKY'S APPLIANCE</Data></Cell>
+
+   304-825-6113     40732.69              <Cell><Data ss:Type="Number">40732.69</Data></Cell>
+   <Cell><Data ss:Type="Number">84229.79</Data></Cell>
+   <Cell><Data ss:Type="Number">43497.1</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">40732.69</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">156HR   </Data></Cell>
+   <Cell><Data ss:Type="String">HERALDS APPL & ELEC</Data></Cell>
+
+   740-393-1806     30986.26              <Cell><Data ss:Type="Number">30986.26</Data></Cell>
+   <Cell><Data ss:Type="Number">102466.01</Data></Cell>
+   <Cell><Data ss:Type="Number">71479.75</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">30986.26</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">157EC   </Data></Cell>
+   <Cell><Data ss:Type="String">ECKLEY TV & APPLIANCE </Data></Cell>
+
+   724-588-7690     34991.11              <Cell><Data ss:Type="Number">34991.11</Data></Cell>
+   <Cell><Data ss:Type="Number">92776.56</Data></Cell>
+   <Cell><Data ss:Type="Number">57785.45</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1079.54</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">36070.65</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">159MD   </Data></Cell>
+   <Cell><Data ss:Type="String">THE APPLIANCE CONNECTION</Data></Cell>
+
+   304-845-7686     12128.93              <Cell><Data ss:Type="Number">12128.93</Data></Cell>
+   <Cell><Data ss:Type="Number">69422.81</Data></Cell>
+   <Cell><Data ss:Type="Number">57293.88</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">12128.93</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">15MN    </Data></Cell>
+   <Cell><Data ss:Type="String">MAINIERO'S INC</Data></Cell>
+
+   856-692-7900     42840.23              <Cell><Data ss:Type="Number">42840.23</Data></Cell>
+   <Cell><Data ss:Type="Number">197260</Data></Cell>
+   <Cell><Data ss:Type="Number">154419.77</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-781.39</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">43621.62</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">160HV   </Data></Cell>
+   <Cell><Data ss:Type="String">HARTVILLE HARDWARE</Data></Cell>
+
+   330-877-3631     48139.79              <Cell><Data ss:Type="Number">48139.79</Data></Cell>
+   <Cell><Data ss:Type="Number">321680.85</Data></Cell>
+   <Cell><Data ss:Type="Number">273541.06</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">48139.79</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">161ME   </Data></Cell>
+   <Cell><Data ss:Type="String">MILLERSBURG ELECTRIC</Data></Cell>
+
+   330-674-3806     35561.14              <Cell><Data ss:Type="Number">35561.14</Data></Cell>
+   <Cell><Data ss:Type="Number">114272.4</Data></Cell>
+   <Cell><Data ss:Type="Number">78711.26</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-2229.64</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">37790.78</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">162HP   </Data></Cell>
+   <Cell><Data ss:Type="String">HOME APPLIANCE SERVICE</Data></Cell>
+
+   814-472-9204     22049.48              <Cell><Data ss:Type="Number">22049.48</Data></Cell>
+   <Cell><Data ss:Type="Number">75138.82</Data></Cell>
+   <Cell><Data ss:Type="Number">53089.34</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">22049.48</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">163FK   </Data></Cell>
+   <Cell><Data ss:Type="String">FLICKS TV AND APPLIANCE</Data></Cell>
+
+   814-336-2390      7662.19              <Cell><Data ss:Type="Number">7662.19</Data></Cell>
+   <Cell><Data ss:Type="Number">56682.03</Data></Cell>
+   <Cell><Data ss:Type="Number">49019.84</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">7662.19</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">164BG   </Data></Cell>
+   <Cell><Data ss:Type="String">HOME APPL SLS AND SVC</Data></Cell>
+
+   330-225-5807     32094.95              <Cell><Data ss:Type="Number">32094.95</Data></Cell>
+   <Cell><Data ss:Type="Number">264206.55</Data></Cell>
+   <Cell><Data ss:Type="Number">232111.6</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-3426.63</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">35521.58</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">165MG   </Data></Cell>
+   <Cell><Data ss:Type="String">MAGNUS DISTRIBUTION</Data></Cell>
+
+   732-339-3266      2946.26              <Cell><Data ss:Type="Number">2946.26</Data></Cell>
+   <Cell><Data ss:Type="Number">2946.26</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">2946.26</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">166FC   </Data></Cell>
+   <Cell><Data ss:Type="String">FOCUS CAMERA</Data></Cell>
+
+   718-437-8800       678.03              <Cell><Data ss:Type="Number">678.03</Data></Cell>
+   <Cell><Data ss:Type="Number">11217.74</Data></Cell>
+   <Cell><Data ss:Type="Number">10539.71</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">678.03</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">167PT   </Data></Cell>
+   <Cell><Data ss:Type="String">PATTENS APPLIANCE CENTER</Data></Cell>
+
+   740-732-2553      2278.05              <Cell><Data ss:Type="Number">2278.05</Data></Cell>
+   <Cell><Data ss:Type="Number">2393.37</Data></Cell>
+   <Cell><Data ss:Type="Number">115.32</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-2496.03</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">4774.08</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">168BB   </Data></Cell>
+   <Cell><Data ss:Type="String">BLOOM BROTHERS SUPPLY</Data></Cell>
+
+   440-729-7336     84067.56              <Cell><Data ss:Type="Number">84067.56</Data></Cell>
+   <Cell><Data ss:Type="Number">472974.1</Data></Cell>
+   <Cell><Data ss:Type="Number">388906.54</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">84067.56</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">169GM   </Data></Cell>
+   <Cell><Data ss:Type="String">GOLD APPLIANCES</Data></Cell>
+
+   724-285-7523      7100.67              <Cell><Data ss:Type="Number">7100.67</Data></Cell>
+   <Cell><Data ss:Type="Number">20000.67</Data></Cell>
+   <Cell><Data ss:Type="Number">12900</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-718.29</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">7818.96</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">16JA    </Data></Cell>
+   <Cell><Data ss:Type="String">JACOBSON APPLIANCES INC.</Data></Cell>
+
+   908-354-8533     39850.88              <Cell><Data ss:Type="Number">39850.88</Data></Cell>
+   <Cell><Data ss:Type="Number">179626.45</Data></Cell>
+   <Cell><Data ss:Type="Number">139775.57</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">39850.88</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">170EA   </Data></Cell>
+   <Cell><Data ss:Type="String">ELI APPLIANCE</Data></Cell>
+
+   201-801-1001     35267.54              <Cell><Data ss:Type="Number">35267.54</Data></Cell>
+   <Cell><Data ss:Type="Number">333984.19</Data></Cell>
+   <Cell><Data ss:Type="Number">298716.65</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-12829.02</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">48096.56</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">171DL   </Data></Cell>
+   <Cell><Data ss:Type="String">DANIELS</Data></Cell>
+
+   412-655-7541     32577.63              <Cell><Data ss:Type="Number">32577.63</Data></Cell>
+   <Cell><Data ss:Type="Number">250064.96</Data></Cell>
+   <Cell><Data ss:Type="Number">217487.33</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">32577.63</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">172ER   </Data></Cell>
+   <Cell><Data ss:Type="String">EDWARDS KITCHEN APPL</Data></Cell>
+
+   716-684-8888       356.11-             <Cell><Data ss:Type="Number">356.11</Data></Cell>
+   <Cell><Data ss:Type="Number">659.82</Data></Cell>
+   <Cell><Data ss:Type="Number">1015.93</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-3329.77</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">2973.66</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">173WO   </Data></Cell>
+   <Cell><Data ss:Type="String">WOOSTER APPLIANCE CTR</Data></Cell>
+
+   330-262-5851      2256.34              <Cell><Data ss:Type="Number">2256.34</Data></Cell>
+   <Cell><Data ss:Type="Number">93725.31</Data></Cell>
+   <Cell><Data ss:Type="Number">91468.97</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">2256.34</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">174SW   </Data></Cell>
+   <Cell><Data ss:Type="String">SKYLINE</Data></Cell>
+
+   718-616-1515      4242.67              <Cell><Data ss:Type="Number">4242.67</Data></Cell>
+   <Cell><Data ss:Type="Number">14433.57</Data></Cell>
+   <Cell><Data ss:Type="Number">10190.9</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-380.85</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">4623.52</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">176AI   </Data></Cell>
+   <Cell><Data ss:Type="String">ALLIANCE APPL CENTER</Data></Cell>
+
+   330-821-9170      3978.30              <Cell><Data ss:Type="Number">3978.3</Data></Cell>
+   <Cell><Data ss:Type="Number">23182.68</Data></Cell>
+   <Cell><Data ss:Type="Number">19204.38</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">3978.3</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">177HN   </Data></Cell>
+   <Cell><Data ss:Type="String">HENDRICKS APPL AND TV</Data></Cell>
+
+   609-397-0421     10448.02              <Cell><Data ss:Type="Number">10448.02</Data></Cell>
+   <Cell><Data ss:Type="Number">159871.76</Data></Cell>
+   <Cell><Data ss:Type="Number">149423.74</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">10448.02</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">178SM   </Data></Cell>
+   <Cell><Data ss:Type="String">SMARTER APPLIANCE INC.</Data></Cell>
+
+   860-531-2363      4601.62              <Cell><Data ss:Type="Number">4601.62</Data></Cell>
+   <Cell><Data ss:Type="Number">60227.12</Data></Cell>
+   <Cell><Data ss:Type="Number">55625.5</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">4601.62</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">179AO   </Data></Cell>
+   <Cell><Data ss:Type="String">ALCO STORES INC.</Data></Cell>
+
+   304-527-1292      4893.07              <Cell><Data ss:Type="Number">4893.07</Data></Cell>
+   <Cell><Data ss:Type="Number">32845.55</Data></Cell>
+   <Cell><Data ss:Type="Number">27952.48</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-33.88</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">4926.95</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">180DV   </Data></Cell>
+   <Cell><Data ss:Type="String">DELAWARE VALLEY APPL</Data></Cell>
+
+   610-543-8936     47851.95              <Cell><Data ss:Type="Number">47851.95</Data></Cell>
+   <Cell><Data ss:Type="Number">166518.22</Data></Cell>
+   <Cell><Data ss:Type="Number">118666.27</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">47851.95</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">181JM   </Data></Cell>
+   <Cell><Data ss:Type="String">JOHN'S MAYTAG HOME APPL</Data></Cell>
+
+   302-792-2333      7307.06              <Cell><Data ss:Type="Number">7307.06</Data></Cell>
+   <Cell><Data ss:Type="Number">30966.46</Data></Cell>
+   <Cell><Data ss:Type="Number">23659.4</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">7307.06</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">182BS   </Data></Cell>
+   <Cell><Data ss:Type="String">BAYSHORE APPLIANCE</Data></Cell>
+
+   732-888-1110      3100.51              <Cell><Data ss:Type="Number">3100.51</Data></Cell>
+   <Cell><Data ss:Type="Number">60781.43</Data></Cell>
+   <Cell><Data ss:Type="Number">57680.92</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">3100.51</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">183CB   </Data></Cell>
+   <Cell><Data ss:Type="String">CB JOE TV AND APPLIANCE</Data></Cell>
+
+   302-322-7600      1359.90              <Cell><Data ss:Type="Number">1359.9</Data></Cell>
+   <Cell><Data ss:Type="Number">12471.49</Data></Cell>
+   <Cell><Data ss:Type="Number">11111.59</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">1359.9</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">185PD   </Data></Cell>
+   <Cell><Data ss:Type="String">PARKSIDE APPLIANCE</Data></Cell>
+
+   718-438-6000      2303.56              <Cell><Data ss:Type="Number">2303.56</Data></Cell>
+   <Cell><Data ss:Type="Number">6662.42</Data></Cell>
+   <Cell><Data ss:Type="Number">4358.86</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">2303.56</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">186MI   </Data></Cell>
+   <Cell><Data ss:Type="String">MILLER REFRIGERATION INC</Data></Cell>
+
+   724-547-0670      4089.94              <Cell><Data ss:Type="Number">4089.94</Data></Cell>
+   <Cell><Data ss:Type="Number">18518.56</Data></Cell>
+   <Cell><Data ss:Type="Number">14428.62</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-228.9</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">4318.84</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">187RB   </Data></Cell>
+   <Cell><Data ss:Type="String">R BROOKS AND SONS</Data></Cell>
+
+   410-228-7811     18058.41              <Cell><Data ss:Type="Number">18058.41</Data></Cell>
+   <Cell><Data ss:Type="Number">161201.56</Data></Cell>
+   <Cell><Data ss:Type="Number">143143.15</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">18058.41</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">188AS   </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE DISCOUNTERS</Data></Cell>
+
+   800-916-3128      6712.17-             <Cell><Data ss:Type="Number">6712.17</Data></Cell>
+   <Cell><Data ss:Type="Number">-6712.17</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-9000</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">2287.83</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">189LH   </Data></Cell>
+   <Cell><Data ss:Type="String">L.H. BRUBAKER APPLIANCE</Data></Cell>
+
+   717-299-2351      9046.81              <Cell><Data ss:Type="Number">9046.81</Data></Cell>
+   <Cell><Data ss:Type="Number">210252.48</Data></Cell>
+   <Cell><Data ss:Type="Number">201205.67</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">9046.81</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">18DK    </Data></Cell>
+   <Cell><Data ss:Type="String">D AND K APPLIANCES INC.</Data></Cell>
+
+   610-356-2424     59504.51              <Cell><Data ss:Type="Number">59504.51</Data></Cell>
+   <Cell><Data ss:Type="Number">444521.53</Data></Cell>
+   <Cell><Data ss:Type="Number">385017.02</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">59504.51</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">190AA   </Data></Cell>
+   <Cell><Data ss:Type="String">AUTOMATIC APPL PARTS</Data></Cell>
+
+   845-897-3848     22047.09              <Cell><Data ss:Type="Number">22047.09</Data></Cell>
+   <Cell><Data ss:Type="Number">90531.69</Data></Cell>
+   <Cell><Data ss:Type="Number">68484.6</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">22047.09</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">191NO   </Data></Cell>
+   <Cell><Data ss:Type="String">NORDAM APPLIANCE</Data></Cell>
+
+   201-552-9819      8713.31              <Cell><Data ss:Type="Number">8713.31</Data></Cell>
+   <Cell><Data ss:Type="Number">28907.1</Data></Cell>
+   <Cell><Data ss:Type="Number">20193.79</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">8713.31</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">192AN   </Data></Cell>
+   <Cell><Data ss:Type="String">A.K. NAHAS</Data></Cell>
+
+   724-774-4640     47534.29              <Cell><Data ss:Type="Number">47534.29</Data></Cell>
+   <Cell><Data ss:Type="Number">360166.5</Data></Cell>
+   <Cell><Data ss:Type="Number">312632.21</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-2770.14</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">50304.43</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">193AL   </Data></Cell>
+   <Cell><Data ss:Type="String">ALLSHOUSE APPLIANCE</Data></Cell>
+
+   724-654-4334     52953.13              <Cell><Data ss:Type="Number">52953.13</Data></Cell>
+   <Cell><Data ss:Type="Number">199065.98</Data></Cell>
+   <Cell><Data ss:Type="Number">146112.85</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">52953.13</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">194CR   </Data></Cell>
+   <Cell><Data ss:Type="String">CROSSROADS FURNITURE LLC</Data></Cell>
+
+   440-466-1171     30832.60              <Cell><Data ss:Type="Number">30832.6</Data></Cell>
+   <Cell><Data ss:Type="Number">69776.69</Data></Cell>
+   <Cell><Data ss:Type="Number">38944.09</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">30832.6</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">196GA   </Data></Cell>
+   <Cell><Data ss:Type="String">GROVE APPLIANCE</Data></Cell>
+
+   330-821-1500     62385.23              <Cell><Data ss:Type="Number">62385.23</Data></Cell>
+   <Cell><Data ss:Type="Number">174191.67</Data></Cell>
+   <Cell><Data ss:Type="Number">111806.44</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">62385.23</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">197RM   </Data></Cell>
+   <Cell><Data ss:Type="String">R.W. MCDONALD AND SONS</Data></Cell>
+
+   724-287-1724       838.86-             <Cell><Data ss:Type="Number">838.86</Data></Cell>
+   <Cell><Data ss:Type="Number">-838.86</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-5445.53</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">4606.67</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">198WF   </Data></Cell>
+   <Cell><Data ss:Type="String">WAYSIDE FURNITURE</Data></Cell>
+
+   304-455-2961     29937.17              <Cell><Data ss:Type="Number">29937.17</Data></Cell>
+   <Cell><Data ss:Type="Number">99511.97</Data></Cell>
+   <Cell><Data ss:Type="Number">69574.8</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">29937.17</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">199NS   </Data></Cell>
+   <Cell><Data ss:Type="String">NORTHSIDE TV AND APPL</Data></Cell>
+
+   330-755-9061      2481.07              <Cell><Data ss:Type="Number">2481.07</Data></Cell>
+   <Cell><Data ss:Type="Number">62465.06</Data></Cell>
+   <Cell><Data ss:Type="Number">59983.99</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1450.11</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">3931.18</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">19CW    </Data></Cell>
+   <Cell><Data ss:Type="String">CLARK'S SERVICE IS FIRST</Data></Cell>
+
+   304-258-2226     34803.36              <Cell><Data ss:Type="Number">34803.36</Data></Cell>
+   <Cell><Data ss:Type="Number">90096.98</Data></Cell>
+   <Cell><Data ss:Type="Number">55293.62</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">34803.36</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">200HA   </Data></Cell>
+   <Cell><Data ss:Type="String">HOME APPLIANCE COMPANY</Data></Cell>
+
+   330-832-5523     51372.16              <Cell><Data ss:Type="Number">51372.16</Data></Cell>
+   <Cell><Data ss:Type="Number">355374.07</Data></Cell>
+   <Cell><Data ss:Type="Number">304001.91</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">51372.16</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">201SC   </Data></Cell>
+   <Cell><Data ss:Type="String">SPROWLS CITY APPL AND TV</Data></Cell>
+
+   724-225-5760     22381.50              <Cell><Data ss:Type="Number">22381.5</Data></Cell>
+   <Cell><Data ss:Type="Number">86905.98</Data></Cell>
+   <Cell><Data ss:Type="Number">64524.48</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">22381.5</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">202RW   </Data></Cell>
+   <Cell><Data ss:Type="String">REESE WAREHOUSE</Data></Cell>
+
+   724-569-4171     50228.59              <Cell><Data ss:Type="Number">50228.59</Data></Cell>
+   <Cell><Data ss:Type="Number">120385.23</Data></Cell>
+   <Cell><Data ss:Type="Number">70156.64</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">50228.59</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">203JU   </Data></Cell>
+   <Cell><Data ss:Type="String">JUST CABINETS </Data></Cell>
+
+   717-540-5500      2307.34-             <Cell><Data ss:Type="Number">2307.34</Data></Cell>
+   <Cell><Data ss:Type="Number">3583.38</Data></Cell>
+   <Cell><Data ss:Type="Number">1874.4</Data></Cell>
+   <Cell><Data ss:Type="Number">4016.32</Data></Cell>
+   <Cell><Data ss:Type="Number">-2445.81</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">138.47</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">204OU   </Data></Cell>
+   <Cell><Data ss:Type="String">OUTTEN BROTHERS INC</Data></Cell>
+
+   410-742-4408      1208.45              <Cell><Data ss:Type="Number">1208.45</Data></Cell>
+   <Cell><Data ss:Type="Number">3153.35</Data></Cell>
+   <Cell><Data ss:Type="Number">1944.9</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">1208.45</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">206CW   </Data></Cell>
+   <Cell><Data ss:Type="String">CENTRAL WHOLESALERS INC.</Data></Cell>
+
+   301-419-2239     15307.58              <Cell><Data ss:Type="Number">15307.58</Data></Cell>
+   <Cell><Data ss:Type="Number">27642.89</Data></Cell>
+   <Cell><Data ss:Type="Number">12335.31</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">15307.58</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">207PA   </Data></Cell>
+   <Cell><Data ss:Type="String">PALUMBOS</Data></Cell>
+
+   732-770-7977      5728.40              <Cell><Data ss:Type="Number">5728.4</Data></Cell>
+   <Cell><Data ss:Type="Number">48327.23</Data></Cell>
+   <Cell><Data ss:Type="Number">42598.83</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">5728.4</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">208SK   </Data></Cell>
+   <Cell><Data ss:Type="String">SKY VIEW APPLIANCE</Data></Cell>
+
+   917-662-5566     65290.42              <Cell><Data ss:Type="Number">65290.42</Data></Cell>
+   <Cell><Data ss:Type="Number">233555.81</Data></Cell>
+   <Cell><Data ss:Type="Number">168265.39</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">65290.42</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">209HT   </Data></Cell>
+   <Cell><Data ss:Type="String">HITRONS TECH INC</Data></Cell>
+
+   201-941-0024     39281.87              <Cell><Data ss:Type="Number">39281.87</Data></Cell>
+   <Cell><Data ss:Type="Number">137258.91</Data></Cell>
+   <Cell><Data ss:Type="Number">97977.04</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">39281.87</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">20CR    </Data></Cell>
+   <Cell><Data ss:Type="String">CRAIG APPLIANCE</Data></Cell>
+
+   724-628-5577     72906.58              <Cell><Data ss:Type="Number">72906.58</Data></Cell>
+   <Cell><Data ss:Type="Number">140257.91</Data></Cell>
+   <Cell><Data ss:Type="Number">67351.33</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">72906.58</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">22BH    </Data></Cell>
+   <Cell><Data ss:Type="String">BETTER HOUSEKEEPING SHOP</Data></Cell>
+
+   732-741-4310     61956.40              <Cell><Data ss:Type="Number">61956.4</Data></Cell>
+   <Cell><Data ss:Type="Number">251919.85</Data></Cell>
+   <Cell><Data ss:Type="Number">189963.45</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-16817.77</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">78774.17</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">23HA    </Data></Cell>
+   <Cell><Data ss:Type="String">HARVEY APPLIANCE INC.   </Data></Cell>
+
+   201-262-6020     54759.26              <Cell><Data ss:Type="Number">54759.26</Data></Cell>
+   <Cell><Data ss:Type="Number">107647.66</Data></Cell>
+   <Cell><Data ss:Type="Number">52888.4</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">54759.26</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">24MA    </Data></Cell>
+   <Cell><Data ss:Type="String">MILES APPL SLS & SRC</Data></Cell>
+
+   717-235-2097      2416.42              <Cell><Data ss:Type="Number">2416.42</Data></Cell>
+   <Cell><Data ss:Type="Number">54069.69</Data></Cell>
+   <Cell><Data ss:Type="Number">51653.27</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">2416.42</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">25DO    </Data></Cell>
+   <Cell><Data ss:Type="String">DOM'S TV INC.</Data></Cell>
+
+   412-466-2870         0.00              <Cell><Data ss:Type="Number">0</Data></Cell>
+   <Cell><Data ss:Type="Number">50.37</Data></Cell>
+   <Cell><Data ss:Type="Number">50.37</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-500</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">500</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">260HV   </Data></Cell>
+   <Cell><Data ss:Type="String">HARTVILLE HARDWARE 2</Data></Cell>
+
+   330-633-4047       597.29              <Cell><Data ss:Type="Number">597.29</Data></Cell>
+   <Cell><Data ss:Type="Number">18652.94</Data></Cell>
+   <Cell><Data ss:Type="Number">18055.65</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">597.29</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">26LE    </Data></Cell>
+   <Cell><Data ss:Type="String">LEHIGH SUPPLY INC</Data></Cell>
+
+   610-867-0567     55773.64              <Cell><Data ss:Type="Number">55773.64</Data></Cell>
+   <Cell><Data ss:Type="Number">153028.32</Data></Cell>
+   <Cell><Data ss:Type="Number">97254.68</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">55773.64</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">27NU    </Data></Cell>
+   <Cell><Data ss:Type="String">UNEEDA APPLIANCE CO.</Data></Cell>
+
+   908-725-3400     48170.76              <Cell><Data ss:Type="Number">48170.76</Data></Cell>
+   <Cell><Data ss:Type="Number">180944.73</Data></Cell>
+   <Cell><Data ss:Type="Number">132773.97</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">48170.76</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">280DV   </Data></Cell>
+   <Cell><Data ss:Type="String">CK SEIDMAN APPLIANCE</Data></Cell>
+
+   610-485-5000      3609.44              <Cell><Data ss:Type="Number">3609.44</Data></Cell>
+   <Cell><Data ss:Type="Number">110957.6</Data></Cell>
+   <Cell><Data ss:Type="Number">107348.16</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-25.63</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">3635.07</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">28HA    </Data></Cell>
+   <Cell><Data ss:Type="String">HENLOPEN APPLIANCE</Data></Cell>
+
+   302-645-8930     13132.38              <Cell><Data ss:Type="Number">13132.38</Data></Cell>
+   <Cell><Data ss:Type="Number">110053.52</Data></Cell>
+   <Cell><Data ss:Type="Number">96921.14</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-3318.47</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">16450.85</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">297RM   </Data></Cell>
+   <Cell><Data ss:Type="String">RW MCDONALD</Data></Cell>
+
+   111-111-1111    158964.95              <Cell><Data ss:Type="Number">158964.95</Data></Cell>
+   <Cell><Data ss:Type="Number">169964.95</Data></Cell>
+   <Cell><Data ss:Type="Number">11000</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">158964.95</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">29KE    </Data></Cell>
+   <Cell><Data ss:Type="String">KEYSTONE APPL. CO. INC. </Data></Cell>
+
+   201-923-4464        60.60-             <Cell><Data ss:Type="Number">60.6</Data></Cell>
+   <Cell><Data ss:Type="Number">-60.6</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-241.28</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">180.68</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">30HE    </Data></Cell>
+   <Cell><Data ss:Type="String">HEIDLEBAUGH'S INC</Data></Cell>
+
+   717-843-8929     26376.35              <Cell><Data ss:Type="Number">26376.35</Data></Cell>
+   <Cell><Data ss:Type="Number">95631.89</Data></Cell>
+   <Cell><Data ss:Type="Number">69255.54</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">26376.35</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">31BK    </Data></Cell>
+   <Cell><Data ss:Type="String">B AND K APPLIANCE PARTS</Data></Cell>
+
+   717-624-2412        75.00              <Cell><Data ss:Type="Number">75</Data></Cell>
+   <Cell><Data ss:Type="Number">14655.78</Data></Cell>
+   <Cell><Data ss:Type="Number">14580.78</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">75</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">32AW    </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE BROKERS</Data></Cell>
+
+   800-777-3345     71881.79              <Cell><Data ss:Type="Number">71881.79</Data></Cell>
+   <Cell><Data ss:Type="Number">547156.11</Data></Cell>
+   <Cell><Data ss:Type="Number">475274.32</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-355.47</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">72237.26</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">33BY    </Data></Cell>
+   <Cell><Data ss:Type="String">BERGEY'S ELECTRIC INC.</Data></Cell>
+
+   215-723-5518     15370.25              <Cell><Data ss:Type="Number">15370.25</Data></Cell>
+   <Cell><Data ss:Type="Number">59626.25</Data></Cell>
+   <Cell><Data ss:Type="Number">44256</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-302.08</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">15672.33</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">34SE    </Data></Cell>
+   <Cell><Data ss:Type="String">SEE MORE TV APPLIANCE CT</Data></Cell>
+
+   732-548-9191     53854.68              <Cell><Data ss:Type="Number">53854.68</Data></Cell>
+   <Cell><Data ss:Type="Number">667496.58</Data></Cell>
+   <Cell><Data ss:Type="Number">613641.9</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-348.42</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">54203.1</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">36SH    </Data></Cell>
+   <Cell><Data ss:Type="String">SHORE APPLIANCE CONNECT</Data></Cell>
+
+   410-749-2161      3831.73-             <Cell><Data ss:Type="Number">3831.73</Data></Cell>
+   <Cell><Data ss:Type="Number">-3831.73</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-3835.45</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">3.72</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">37RE    </Data></Cell>
+   <Cell><Data ss:Type="String">RENO'S TV INC.          </Data></Cell>
+
+   973-575-8122     55935.41              <Cell><Data ss:Type="Number">55935.41</Data></Cell>
+   <Cell><Data ss:Type="Number">521962.4</Data></Cell>
+   <Cell><Data ss:Type="Number">466026.99</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">55935.41</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">38TH    </Data></Cell>
+   <Cell><Data ss:Type="String">THORNBERRY APPLIANCE TV </Data></Cell>
+
+   732-450-9750     51318.89              <Cell><Data ss:Type="Number">51318.89</Data></Cell>
+   <Cell><Data ss:Type="Number">227836.18</Data></Cell>
+   <Cell><Data ss:Type="Number">176517.29</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-7939.54</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">59258.43</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">39KL    </Data></Cell>
+   <Cell><Data ss:Type="String">KLECKNER AND SONS LLC</Data></Cell>
+
+   610-433-4202     51338.73              <Cell><Data ss:Type="Number">51338.73</Data></Cell>
+   <Cell><Data ss:Type="Number">275580.19</Data></Cell>
+   <Cell><Data ss:Type="Number">224241.46</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">51338.73</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">40MA    </Data></Cell>
+   <Cell><Data ss:Type="String">MATTERN'S RIDGE </Data></Cell>
+
+   610-539-5505     24936.78              <Cell><Data ss:Type="Number">24936.78</Data></Cell>
+   <Cell><Data ss:Type="Number">122063.91</Data></Cell>
+   <Cell><Data ss:Type="Number">97127.13</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">24936.78</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">41DE    </Data></Cell>
+   <Cell><Data ss:Type="String">DERBY APPLIANCE STORES  </Data></Cell>
+
+   732-572-1212     44897.28              <Cell><Data ss:Type="Number">44897.28</Data></Cell>
+   <Cell><Data ss:Type="Number">140098.56</Data></Cell>
+   <Cell><Data ss:Type="Number">95201.28</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">44897.28</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">42RD    </Data></Cell>
+   <Cell><Data ss:Type="String">RICHMOND DISCOUNT APPL  </Data></Cell>
+
+   718-967-3310     96516.24              <Cell><Data ss:Type="Number">96516.24</Data></Cell>
+   <Cell><Data ss:Type="Number">304615.29</Data></Cell>
+   <Cell><Data ss:Type="Number">208099.05</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">96516.24</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">43ST    </Data></Cell>
+   <Cell><Data ss:Type="String">STADIUM APPLIANCE CENTER</Data></Cell>
+
+   973-857-3100       533.20-             <Cell><Data ss:Type="Number">533.2</Data></Cell>
+   <Cell><Data ss:Type="Number">-533.2</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-533.2</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">44SD    </Data></Cell>
+   <Cell><Data ss:Type="String">STROUD TV AND APPLIANCE</Data></Cell>
+
+   570-421-7700     18964.60              <Cell><Data ss:Type="Number">18964.6</Data></Cell>
+   <Cell><Data ss:Type="Number">54275.7</Data></Cell>
+   <Cell><Data ss:Type="Number">35311.1</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">18964.6</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">45RG    </Data></Cell>
+   <Cell><Data ss:Type="String">ROGERS APPLIANCE INC.   </Data></Cell>
+
+   908-782-1962     42442.79              <Cell><Data ss:Type="Number">42442.79</Data></Cell>
+   <Cell><Data ss:Type="Number">251746.22</Data></Cell>
+   <Cell><Data ss:Type="Number">209303.43</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">42442.79</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">46PL    </Data></Cell>
+   <Cell><Data ss:Type="String">AMERICAN APPLIANCE SVC</Data></Cell>
+
+   410-641-2211     12387.86              <Cell><Data ss:Type="Number">12387.86</Data></Cell>
+   <Cell><Data ss:Type="Number">76279.63</Data></Cell>
+   <Cell><Data ss:Type="Number">63891.77</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">12387.86</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">47ET    </Data></Cell>
+   <Cell><Data ss:Type="String">EATONTOWN TV            </Data></Cell>
+
+   732-542-0400     42519.53              <Cell><Data ss:Type="Number">42519.53</Data></Cell>
+   <Cell><Data ss:Type="Number">224330.36</Data></Cell>
+   <Cell><Data ss:Type="Number">181810.83</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-3926</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">46445.53</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">48HG    </Data></Cell>
+   <Cell><Data ss:Type="String">HH GREGG</Data></Cell>
+
+   732-357-2402      7457.63              <Cell><Data ss:Type="Number">7457.63</Data></Cell>
+   <Cell><Data ss:Type="Number">7457.63</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1410.92</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">8868.55</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">49CI    </Data></Cell>
+   <Cell><Data ss:Type="String">EIGHT CICCOLINI BROTHERS</Data></Cell>
+
+   973-661-2100         0.00              <Cell><Data ss:Type="Number">0</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-68.1</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">68.1</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">50LU    </Data></Cell>
+   <Cell><Data ss:Type="String">LUSBYS APPL AND ELEC INC</Data></Cell>
+
+   410-957-2900      6560.43              <Cell><Data ss:Type="Number">6560.43</Data></Cell>
+   <Cell><Data ss:Type="Number">28885.1</Data></Cell>
+   <Cell><Data ss:Type="Number">22324.67</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">6560.43</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">51DS    </Data></Cell>
+   <Cell><Data ss:Type="String">D AND S APPLANCE INC.</Data></Cell>
+
+   718-938-8605     38447.00              <Cell><Data ss:Type="Number">38447</Data></Cell>
+   <Cell><Data ss:Type="Number">111256.87</Data></Cell>
+   <Cell><Data ss:Type="Number">72809.87</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">38447</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">52PQ    </Data></Cell>
+   <Cell><Data ss:Type="String">PEQUANNOCK APPLIANCE CO </Data></Cell>
+
+   973-696-0188     16396.52              <Cell><Data ss:Type="Number">16396.52</Data></Cell>
+   <Cell><Data ss:Type="Number">57823.79</Data></Cell>
+   <Cell><Data ss:Type="Number">41427.27</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-245</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">16641.52</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">53FL    </Data></Cell>
+   <Cell><Data ss:Type="String">FLICK BROTHERS ELECTRIC</Data></Cell>
+
+   570-784-3444     39293.18              <Cell><Data ss:Type="Number">39293.18</Data></Cell>
+   <Cell><Data ss:Type="Number">183399.6</Data></Cell>
+   <Cell><Data ss:Type="Number">144106.42</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">39293.18</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">56SA    </Data></Cell>
+   <Cell><Data ss:Type="String">SANATOGA CORP.          </Data></Cell>
+
+   610-326-9800     63978.65              <Cell><Data ss:Type="Number">63978.65</Data></Cell>
+   <Cell><Data ss:Type="Number">211260.99</Data></Cell>
+   <Cell><Data ss:Type="Number">147282.34</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-384.05</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">64362.7</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">57BE    </Data></Cell>
+   <Cell><Data ss:Type="String">BERGER APPLIANCE INC    </Data></Cell>
+
+   914-769-2300     73355.96              <Cell><Data ss:Type="Number">73355.96</Data></Cell>
+   <Cell><Data ss:Type="Number">647207.52</Data></Cell>
+   <Cell><Data ss:Type="Number">573851.56</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">73355.96</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">58BO    </Data></Cell>
+   <Cell><Data ss:Type="String">BOTANY TV AND APPL INC</Data></Cell>
+
+   973-546-4411     47176.30              <Cell><Data ss:Type="Number">47176.3</Data></Cell>
+   <Cell><Data ss:Type="Number">214921.76</Data></Cell>
+   <Cell><Data ss:Type="Number">167745.46</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-458.02</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">47634.32</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">59EL    </Data></Cell>
+   <Cell><Data ss:Type="String">ELM RADIO AND TV INC</Data></Cell>
+
+   908-233-0400     25113.81              <Cell><Data ss:Type="Number">25113.81</Data></Cell>
+   <Cell><Data ss:Type="Number">60013.54</Data></Cell>
+   <Cell><Data ss:Type="Number">34899.73</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">25113.81</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">60CU    </Data></Cell>
+   <Cell><Data ss:Type="String">CURTOS INCORPORATED     </Data></Cell>
+
+   914-793-5600     49555.18              <Cell><Data ss:Type="Number">49555.18</Data></Cell>
+   <Cell><Data ss:Type="Number">207368.8</Data></Cell>
+   <Cell><Data ss:Type="Number">157813.62</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">49555.18</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">61DC    </Data></Cell>
+   <Cell><Data ss:Type="String">US LBM LLC.</Data></Cell>
+
+   908-587-9577     49099.26              <Cell><Data ss:Type="Number">49099.26</Data></Cell>
+   <Cell><Data ss:Type="Number">196407.43</Data></Cell>
+   <Cell><Data ss:Type="Number">147308.17</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">49099.26</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">62FR    </Data></Cell>
+   <Cell><Data ss:Type="String">FRED DECESARE'S VILLAGE </Data></Cell>
+
+   914-937-2221     65441.04              <Cell><Data ss:Type="Number">65441.04</Data></Cell>
+   <Cell><Data ss:Type="Number">398305.6</Data></Cell>
+   <Cell><Data ss:Type="Number">332864.56</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-9078.78</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">74519.82</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">63AB    </Data></Cell>
+   <Cell><Data ss:Type="String">A.B.C. SALES AND SERVICE</Data></Cell>
+
+   302-652-3683     64417.93              <Cell><Data ss:Type="Number">64417.93</Data></Cell>
+   <Cell><Data ss:Type="Number">411780.43</Data></Cell>
+   <Cell><Data ss:Type="Number">347362.5</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">64417.93</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">64GR    </Data></Cell>
+   <Cell><Data ss:Type="String">GRINGER AND SONS INC</Data></Cell>
+
+   212-475-0600     66388.41              <Cell><Data ss:Type="Number">66388.41</Data></Cell>
+   <Cell><Data ss:Type="Number">358495.56</Data></Cell>
+   <Cell><Data ss:Type="Number">292107.15</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">66388.41</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">65SI    </Data></Cell>
+   <Cell><Data ss:Type="String">SILVER CITY             </Data></Cell>
+
+   845-356-1809       253.89              <Cell><Data ss:Type="Number">253.89</Data></Cell>
+   <Cell><Data ss:Type="Number">253.89</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1365.82</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">1619.71</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">66TR    </Data></Cell>
+   <Cell><Data ss:Type="String">TRIPODI'S ELECTRONICS   </Data></Cell>
+
+   914-939-5700     51767.19              <Cell><Data ss:Type="Number">51767.19</Data></Cell>
+   <Cell><Data ss:Type="Number">159604.72</Data></Cell>
+   <Cell><Data ss:Type="Number">107837.53</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">51767.19</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">67VT    </Data></Cell>
+   <Cell><Data ss:Type="String">VOITEK TV SALES AND </Data></Cell>
+
+   570-287-9631     39199.92              <Cell><Data ss:Type="Number">39199.92</Data></Cell>
+   <Cell><Data ss:Type="Number">352841.73</Data></Cell>
+   <Cell><Data ss:Type="Number">313641.81</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-958.28</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">40158.2</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">68QU    </Data></Cell>
+   <Cell><Data ss:Type="String">QUEEN APPLIANCE WHOLESAL</Data></Cell>
+
+   610-265-9493     61848.94              <Cell><Data ss:Type="Number">61848.94</Data></Cell>
+   <Cell><Data ss:Type="Number">496002.7</Data></Cell>
+   <Cell><Data ss:Type="Number">434153.76</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1812.34</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">63661.28</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">69JC    </Data></Cell>
+   <Cell><Data ss:Type="String">JERSEY COAST APPLIANCE</Data></Cell>
+
+   732-240-2262     21132.96              <Cell><Data ss:Type="Number">21132.96</Data></Cell>
+   <Cell><Data ss:Type="Number">42544.53</Data></Cell>
+   <Cell><Data ss:Type="Number">21411.57</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-330.58</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">21463.54</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">70YO    </Data></Cell>
+   <Cell><Data ss:Type="String">MIGHTY YOUNGS APPL LLC</Data></Cell>
+
+   732-363-0466     28183.00              <Cell><Data ss:Type="Number">28183</Data></Cell>
+   <Cell><Data ss:Type="Number">79886.44</Data></Cell>
+   <Cell><Data ss:Type="Number">51703.44</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">28183</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">71AL    </Data></Cell>
+   <Cell><Data ss:Type="String">ALBO APPLIANCE          </Data></Cell>
+
+   856-235-2288     84337.65              <Cell><Data ss:Type="Number">84337.65</Data></Cell>
+   <Cell><Data ss:Type="Number">511878.6</Data></Cell>
+   <Cell><Data ss:Type="Number">427540.95</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-368.69</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">84706.34</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">72BL    </Data></Cell>
+   <Cell><Data ss:Type="String">BLONDER'S DISCOUNT APPL.</Data></Cell>
+
+   215-943-7100     55456.67              <Cell><Data ss:Type="Number">55456.67</Data></Cell>
+   <Cell><Data ss:Type="Number">217056.08</Data></Cell>
+   <Cell><Data ss:Type="Number">161599.41</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">55456.67</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">73GC    </Data></Cell>
+   <Cell><Data ss:Type="String">GRAND CENTRAL TV AND APP</Data></Cell>
+
+   570-454-6661     29979.97              <Cell><Data ss:Type="Number">29979.97</Data></Cell>
+   <Cell><Data ss:Type="Number">105834.35</Data></Cell>
+   <Cell><Data ss:Type="Number">75854.38</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">29979.97</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">74RC    </Data></Cell>
+   <Cell><Data ss:Type="String">RAC ENTERPRISE INC.</Data></Cell>
+
+   570-606-0729     79944.27              <Cell><Data ss:Type="Number">79944.27</Data></Cell>
+   <Cell><Data ss:Type="Number">180567.27</Data></Cell>
+   <Cell><Data ss:Type="Number">100623</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-103630.73</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">183575</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">75MS    </Data></Cell>
+   <Cell><Data ss:Type="String">MICHAELS SALES AND SVC</Data></Cell>
+
+   717-248-7210     16836.55              <Cell><Data ss:Type="Number">16836.55</Data></Cell>
+   <Cell><Data ss:Type="Number">37295.9</Data></Cell>
+   <Cell><Data ss:Type="Number">20459.35</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">16836.55</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">76PE    </Data></Cell>
+   <Cell><Data ss:Type="String">PETRILLO'S APPLIANCES   </Data></Cell>
+
+   215-355-9400     42800.84              <Cell><Data ss:Type="Number">42800.84</Data></Cell>
+   <Cell><Data ss:Type="Number">177140.47</Data></Cell>
+   <Cell><Data ss:Type="Number">134339.63</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">42800.84</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">77RS    </Data></Cell>
+   <Cell><Data ss:Type="String">ROB STEVEN INC.         </Data></Cell>
+
+   215-638-9494     42448.32              <Cell><Data ss:Type="Number">42448.32</Data></Cell>
+   <Cell><Data ss:Type="Number">161863.65</Data></Cell>
+   <Cell><Data ss:Type="Number">119415.33</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">42448.32</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">78WA    </Data></Cell>
+   <Cell><Data ss:Type="String">WAYFAIR LLC</Data></Cell>
+
+   617-532-6100     21094.46-             <Cell><Data ss:Type="Number">21094.46</Data></Cell>
+   <Cell><Data ss:Type="Number">-2422.27</Data></Cell>
+   <Cell><Data ss:Type="Number">18672.19</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-27808.56</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">6714.1</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">79EF    </Data></Cell>
+   <Cell><Data ss:Type="String">ELITE FACTORY AUTH SVC</Data></Cell>
+
+   267-319-3336      1539.40              <Cell><Data ss:Type="Number">1539.4</Data></Cell>
+   <Cell><Data ss:Type="Number">15773.82</Data></Cell>
+   <Cell><Data ss:Type="Number">14234.42</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-2479</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">4018.4</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">80HF    </Data></Cell>
+   <Cell><Data ss:Type="String">HITCHNER'S FURNITURE</Data></Cell>
+
+   856-935-0537       961.56              <Cell><Data ss:Type="Number">961.56</Data></Cell>
+   <Cell><Data ss:Type="Number">35664.11</Data></Cell>
+   <Cell><Data ss:Type="Number">34702.55</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">961.56</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">81AT    </Data></Cell>
+   <Cell><Data ss:Type="String">ATLANTIC APPLIANCE INC</Data></Cell>
+
+   914-962-2500     61449.80              <Cell><Data ss:Type="Number">61449.8</Data></Cell>
+   <Cell><Data ss:Type="Number">422862.13</Data></Cell>
+   <Cell><Data ss:Type="Number">361412.33</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">61449.8</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">82CL    </Data></Cell>
+   <Cell><Data ss:Type="String">CLARK'S TV AND APPLIANCE</Data></Cell>
+
+   610-944-7335     50837.73              <Cell><Data ss:Type="Number">50837.73</Data></Cell>
+   <Cell><Data ss:Type="Number">116788.35</Data></Cell>
+   <Cell><Data ss:Type="Number">65950.62</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">50837.73</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">83RL    </Data></Cell>
+   <Cell><Data ss:Type="String">RELIABLE HOME SUPPLY</Data></Cell>
+
+   570-544-2555     16125.12              <Cell><Data ss:Type="Number">16125.12</Data></Cell>
+   <Cell><Data ss:Type="Number">35873.3</Data></Cell>
+   <Cell><Data ss:Type="Number">19748.18</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-669.87</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">16794.99</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">84HY    </Data></Cell>
+   <Cell><Data ss:Type="String">HAPPY HOME APPLIANCE </Data></Cell>
+
+   732-952-5260     13567.47              <Cell><Data ss:Type="Number">13567.47</Data></Cell>
+   <Cell><Data ss:Type="Number">25505.13</Data></Cell>
+   <Cell><Data ss:Type="Number">11937.66</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">13567.47</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">86DN    </Data></Cell>
+   <Cell><Data ss:Type="String">DUNN & SEIBERT</Data></Cell>
+
+   240-818-5963     25555.06              <Cell><Data ss:Type="Number">25555.06</Data></Cell>
+   <Cell><Data ss:Type="Number">60093.59</Data></Cell>
+   <Cell><Data ss:Type="Number">34538.53</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-302.2</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">25857.26</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">87KO    </Data></Cell>
+   <Cell><Data ss:Type="String">KOCH'S TV AND APPL INC.</Data></Cell>
+
+   610-377-4394     37598.02              <Cell><Data ss:Type="Number">37598.02</Data></Cell>
+   <Cell><Data ss:Type="Number">91643.91</Data></Cell>
+   <Cell><Data ss:Type="Number">54045.89</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">37598.02</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">88TE    </Data></Cell>
+   <Cell><Data ss:Type="String">TED'S APPLIANCE S&S LLC</Data></Cell>
+
+   203-929-5233      5352.58              <Cell><Data ss:Type="Number">5352.58</Data></Cell>
+   <Cell><Data ss:Type="Number">30269.7</Data></Cell>
+   <Cell><Data ss:Type="Number">24917.12</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">5352.58</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">89AR    </Data></Cell>
+   <Cell><Data ss:Type="String">ART HANDLERS APPL CENTER</Data></Cell>
+
+   609-641-1044     67293.01              <Cell><Data ss:Type="Number">67293.01</Data></Cell>
+   <Cell><Data ss:Type="Number">653744.07</Data></Cell>
+   <Cell><Data ss:Type="Number">586451.06</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1002.38</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">68295.39</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">90HH    </Data></Cell>
+   <Cell><Data ss:Type="String">H AND H APPLIANCES</Data></Cell>
+
+   609-426-1111     68228.01              <Cell><Data ss:Type="Number">68228.01</Data></Cell>
+   <Cell><Data ss:Type="Number">334171.38</Data></Cell>
+   <Cell><Data ss:Type="Number">265943.37</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-1802.4</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">70030.41</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">91PY    </Data></Cell>
+   <Cell><Data ss:Type="String">E.A. PYLE AND CO.</Data></Cell>
+
+   717-838-5416      3957.83              <Cell><Data ss:Type="Number">3957.83</Data></Cell>
+   <Cell><Data ss:Type="Number">6425.47</Data></Cell>
+   <Cell><Data ss:Type="Number">2467.64</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">3957.83</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">92DU    </Data></Cell>
+   <Cell><Data ss:Type="String">DUNMORE APPLIANCE INC.</Data></Cell>
+
+   570-346-7880     63281.03              <Cell><Data ss:Type="Number">63281.03</Data></Cell>
+   <Cell><Data ss:Type="Number">288349.02</Data></Cell>
+   <Cell><Data ss:Type="Number">225067.99</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">63281.03</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">93AJ    </Data></Cell>
+   <Cell><Data ss:Type="String">A J APPLIANCE</Data></Cell>
+
+   215-339-0147     48872.95              <Cell><Data ss:Type="Number">48872.95</Data></Cell>
+   <Cell><Data ss:Type="Number">82596.1</Data></Cell>
+   <Cell><Data ss:Type="Number">33723.15</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">48872.95</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">94JB    </Data></Cell>
+   <Cell><Data ss:Type="String">J.B.HOSTETTER AND SONS</Data></Cell>
+
+   717-653-1841     14693.71              <Cell><Data ss:Type="Number">14693.71</Data></Cell>
+   <Cell><Data ss:Type="Number">65388.06</Data></Cell>
+   <Cell><Data ss:Type="Number">50694.35</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">14693.71</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">95AH    </Data></Cell>
+   <Cell><Data ss:Type="String">ANCHOR APPLIANCE INC</Data></Cell>
+
+   609-296-7889     65970.98              <Cell><Data ss:Type="Number">65970.98</Data></Cell>
+   <Cell><Data ss:Type="Number">393782.38</Data></Cell>
+   <Cell><Data ss:Type="Number">327811.4</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">65970.98</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">97ZI    </Data></Cell>
+   <Cell><Data ss:Type="String">J.B.ZIMMERMAN AND SONS</Data></Cell>
+
+   717-354-4955     50258.47              <Cell><Data ss:Type="Number">50258.47</Data></Cell>
+   <Cell><Data ss:Type="Number">199126.14</Data></Cell>
+   <Cell><Data ss:Type="Number">148867.67</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">50258.47</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">98CH    </Data></Cell>
+   <Cell><Data ss:Type="String">CABIN HILL MAYTAG</Data></Cell>
+
+   724-836-5899      4349.49              <Cell><Data ss:Type="Number">4349.49</Data></Cell>
+   <Cell><Data ss:Type="Number">31514.28</Data></Cell>
+   <Cell><Data ss:Type="Number">27164.79</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">4349.49</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">99CE    </Data></Cell>
+   <Cell><Data ss:Type="String">CARLISLE ELEC AND APPL </Data></Cell>
+
+   717-249-7822     41023.50              <Cell><Data ss:Type="Number">41023.5</Data></Cell>
+   <Cell><Data ss:Type="Number">101685.57</Data></Cell>
+   <Cell><Data ss:Type="Number">60662.07</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">41023.5</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">ADC     </Data></Cell>
+   <Cell><Data ss:Type="String">Appliance Dealers Coop.</Data></Cell>
+
+   609-235-1000      4629.82              <Cell><Data ss:Type="Number">4629.82</Data></Cell>
+   <Cell><Data ss:Type="Number">4629.82</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-89.09</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">4718.91</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">EFC     </Data></Cell>
+   <Cell><Data ss:Type="String">ELECTROLUX FINANCIAL</Data></Cell>
+
+   609-235-1000    302997.73              <Cell><Data ss:Type="Number">302997.73</Data></Cell>
+   <Cell><Data ss:Type="Number">564431.55</Data></Cell>
+   <Cell><Data ss:Type="Number">257566.94</Data></Cell>
+   <Cell><Data ss:Type="Number">3866.88</Data></Cell>
+   <Cell><Data ss:Type="Number">-34517.47</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">337515.2</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">TRANS   </Data></Cell>
+   <Cell><Data ss:Type="String">FINANCED BY WELLS FARGO</Data></Cell>
+
+                  1367530.92              <Cell><Data ss:Type="Number">1367530.92</Data></Cell>
+   <Cell><Data ss:Type="Number">5070748.01</Data></Cell>
+   <Cell><Data ss:Type="Number">3585305.33</Data></Cell>
+   <Cell><Data ss:Type="Number">117911.76</Data></Cell>
+   <Cell><Data ss:Type="Number">-17339.91</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">1384870.83</Data></Cell>
+ </Row> 
+   <Row>
+   <Cell><Data ss:Type="String">WFC     </Data></Cell>
+   <Cell><Data ss:Type="String">WHILPOOL FINANCE CORP   </Data></Cell>
+
+   800-421-4852         0.00              <Cell><Data ss:Type="Number">0</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">-13113.75</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="Number">13113.75</Data></Cell>
+ </Row> 
+   <Row>
+   </Row>
+   <Row >
+   <Cell><Data ss:Type="String">T O T A L S ***</Data></Cell>
+   <Cell><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="Number">38009457.44</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">29611109.35</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="Number">126046.59</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="Number">-423335.59</Data></Cell>
+<Cell ss:Index="9"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:Index="10"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:Index="11"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:Index="12"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:Index="13"><Data ss:Type="Number">8695637.09</Data></Cell>
+ </Row>
+   <Row>
+   </Row>
+<Row>
+<Cell ss:StyleID="s66" ss:MergeAcross="5"><Data ss:Type="String"> DEALER & A/R OUT OF BALANCE LIST   DATE: 06:50 PM  10/03/2024</Data></Cell>
+</Row>
+   <Row ss:Height="15.75" ss:StyleID="s16">
+   <Cell><Data ss:Type="String">DEALER</Data></Cell>
+   <Cell><Data ss:Type="String">NAME</Data></Cell>
+   <Cell><Data ss:Type="String">CUST MC BAL</Data></Cell>
+   <Cell><Data ss:Type="String">A/R BAL</Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">01BA    </Data></Cell>
+   <Cell><Data ss:Type="String">BARRY'S APPLIANCE AND TV</Data></Cell>
+   <Cell><Data ss:Type="String">$47183.88 </Data></Cell>
+   <Cell><Data ss:Type="String">$52218.71 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">02AD    </Data></Cell>
+   <Cell><Data ss:Type="String">AJAY DISC.APPL.AND VIDEO</Data></Cell>
+   <Cell><Data ss:Type="String">$44723.97 </Data></Cell>
+   <Cell><Data ss:Type="String">$38163.40 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">03CO    </Data></Cell>
+   <Cell><Data ss:Type="String">COLONIAL TELEVISION     </Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$23257.16 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">04BR    </Data></Cell>
+   <Cell><Data ss:Type="String">BRUBAKER INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$36354.46 </Data></Cell>
+   <Cell><Data ss:Type="String">$38732.55 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">05JO    </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE DRIVEN INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$33388.81 </Data></Cell>
+   <Cell><Data ss:Type="String">$29598.51 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">06NP    </Data></Cell>
+   <Cell><Data ss:Type="String">NEW PROVIDENCE ELECTRONI</Data></Cell>
+   <Cell><Data ss:Type="String">$75144.49 </Data></Cell>
+   <Cell><Data ss:Type="String">$61770.25 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">07BL    </Data></Cell>
+   <Cell><Data ss:Type="String">BETTER LIVING           </Data></Cell>
+   <Cell><Data ss:Type="String">$52015.05 </Data></Cell>
+   <Cell><Data ss:Type="String">$48379.23 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">08AA    </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE ALLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$30628.91 </Data></Cell>
+   <Cell><Data ss:Type="String">$42449.52 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">09KF    </Data></Cell>
+   <Cell><Data ss:Type="String">KIEFFER'S APPLIANCE INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$43485.72-</Data></Cell>
+   <Cell><Data ss:Type="String">$76011.48 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">100A1   </Data></Cell>
+   <Cell><Data ss:Type="String">A-1 APPLIANCE SALES&SERV</Data></Cell>
+   <Cell><Data ss:Type="String">$7515.45 </Data></Cell>
+   <Cell><Data ss:Type="String">$27604.29 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">101MV   </Data></Cell>
+   <Cell><Data ss:Type="String">MIKE'S VIDEO TV AND APPL</Data></Cell>
+   <Cell><Data ss:Type="String">$59971.86 </Data></Cell>
+   <Cell><Data ss:Type="String">$56211.59 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">102SC   </Data></Cell>
+   <Cell><Data ss:Type="String">SCHULBERGER'S INC</Data></Cell>
+   <Cell><Data ss:Type="String">$38614.66 </Data></Cell>
+   <Cell><Data ss:Type="String">$31198.90 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">103RA   </Data></Cell>
+   <Cell><Data ss:Type="String">RAY'S APPLIANCES</Data></Cell>
+   <Cell><Data ss:Type="String">$37073.32 </Data></Cell>
+   <Cell><Data ss:Type="String">$47095.91 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">104YU   </Data></Cell>
+   <Cell><Data ss:Type="String">YUDIN'S INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$78652.25 </Data></Cell>
+   <Cell><Data ss:Type="String">$59359.82 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">105TG   </Data></Cell>
+   <Cell><Data ss:Type="String">TRIANGLE TV SRV ANS SALE</Data></Cell>
+   <Cell><Data ss:Type="String">$24550.06 </Data></Cell>
+   <Cell><Data ss:Type="String">$25812.54 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">106RO   </Data></Cell>
+   <Cell><Data ss:Type="String">ROSENDAHL'S APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$6299.21 </Data></Cell>
+   <Cell><Data ss:Type="String">$16226.22 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">107MO   </Data></Cell>
+   <Cell><Data ss:Type="String">MORRISSEY TV AND APPL</Data></Cell>
+   <Cell><Data ss:Type="String">$53001.12 </Data></Cell>
+   <Cell><Data ss:Type="String">$42900.53 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">108SQ   </Data></Cell>
+   <Cell><Data ss:Type="String">SQUIRES ELECTRONICS</Data></Cell>
+   <Cell><Data ss:Type="String">$48454.32 </Data></Cell>
+   <Cell><Data ss:Type="String">$42920.81 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">109SL   </Data></Cell>
+   <Cell><Data ss:Type="String">SALTZER'S APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$2957.23 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">10MR    </Data></Cell>
+   <Cell><Data ss:Type="String">MRS G                   </Data></Cell>
+   <Cell><Data ss:Type="String">$64656.56 </Data></Cell>
+   <Cell><Data ss:Type="String">$63505.59 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">110KA   </Data></Cell>
+   <Cell><Data ss:Type="String">KASPER TV AND APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$44722.73 </Data></Cell>
+   <Cell><Data ss:Type="String">$58629.77 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">111AU   </Data></Cell>
+   <Cell><Data ss:Type="String">AUREL'S T.V. &APPLIANCES</Data></Cell>
+   <Cell><Data ss:Type="String">$39751.56-</Data></Cell>
+   <Cell><Data ss:Type="String">$29028.63 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">112KR   </Data></Cell>
+   <Cell><Data ss:Type="String">KRISAY'S INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$51934.70 </Data></Cell>
+   <Cell><Data ss:Type="String">$73920.71 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">113DS   </Data></Cell>
+   <Cell><Data ss:Type="String">DANIEL SHAFFER'S INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$20977.78 </Data></Cell>
+   <Cell><Data ss:Type="String">$10752.65 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">114BV   </Data></Cell>
+   <Cell><Data ss:Type="String">BILL VANDEGRIFT INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$55049.44 </Data></Cell>
+   <Cell><Data ss:Type="String">$55391.42 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">115DI   </Data></Cell>
+   <Cell><Data ss:Type="String">DIAMOND SUPPLY CO.</Data></Cell>
+   <Cell><Data ss:Type="String">$23742.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$32946.80 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">116BW   </Data></Cell>
+   <Cell><Data ss:Type="String">BROCKWAY APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$4169.24 </Data></Cell>
+   <Cell><Data ss:Type="String">$9530.54 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">117WH   </Data></Cell>
+   <Cell><Data ss:Type="String">ELK COUNTY WHA INC. DBA</Data></Cell>
+   <Cell><Data ss:Type="String">$4736.09 </Data></Cell>
+   <Cell><Data ss:Type="String">$17142.27 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">118AR   </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE REPLACEMENT</Data></Cell>
+   <Cell><Data ss:Type="String">$47915.83 </Data></Cell>
+   <Cell><Data ss:Type="String">$6595.79 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">119MT   </Data></Cell>
+   <Cell><Data ss:Type="String">MARTIN APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$99870.81 </Data></Cell>
+   <Cell><Data ss:Type="String">$89705.24 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">11JE    </Data></Cell>
+   <Cell><Data ss:Type="String">JOHNSON'S ELECTRIC</Data></Cell>
+   <Cell><Data ss:Type="String">$38322.97 </Data></Cell>
+   <Cell><Data ss:Type="String">$22114.73 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">121CA   </Data></Cell>
+   <Cell><Data ss:Type="String">CHARLOTTE APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$519060.37 </Data></Cell>
+   <Cell><Data ss:Type="String">$147089.13 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">122PC   </Data></Cell>
+   <Cell><Data ss:Type="String">DAVID'S SUPPLIES</Data></Cell>
+   <Cell><Data ss:Type="String">$13000.89 </Data></Cell>
+   <Cell><Data ss:Type="String">$10009.43 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">123BC   </Data></Cell>
+   <Cell><Data ss:Type="String">BIG CENTRIC HOME APPL</Data></Cell>
+   <Cell><Data ss:Type="String">$54204.66 </Data></Cell>
+   <Cell><Data ss:Type="String">$47073.48 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">124NA   </Data></Cell>
+   <Cell><Data ss:Type="String">NATIONAL APPLIANCE WHSE</Data></Cell>
+   <Cell><Data ss:Type="String">$73881.70 </Data></Cell>
+   <Cell><Data ss:Type="String">$96319.67 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">125DW   </Data></Cell>
+   <Cell><Data ss:Type="String">DELAWARE APPL DISTRIB</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$4170.42 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">126HM   </Data></Cell>
+   <Cell><Data ss:Type="String">B AND H THE HOME MARKET</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$28705.36 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">127NF   </Data></Cell>
+   <Cell><Data ss:Type="String">N.F.LANDIS AND SON INC</Data></Cell>
+   <Cell><Data ss:Type="String">$56671.41 </Data></Cell>
+   <Cell><Data ss:Type="String">$54480.13 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">128LO   </Data></Cell>
+   <Cell><Data ss:Type="String">LONGACRE ELECTRICAL</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$7216.19 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">129HH   </Data></Cell>
+   <Cell><Data ss:Type="String">H AND H FURN AND APPL</Data></Cell>
+   <Cell><Data ss:Type="String">$3994.84 </Data></Cell>
+   <Cell><Data ss:Type="String">$8306.05 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">130PH   </Data></Cell>
+   <Cell><Data ss:Type="String">PETERS HOME APPLIANCE CT</Data></Cell>
+   <Cell><Data ss:Type="String">$12549.36 </Data></Cell>
+   <Cell><Data ss:Type="String">$17336.80 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">131CM   </Data></Cell>
+   <Cell><Data ss:Type="String">COASTAL MAYTAG</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$103164.27 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">132OB   </Data></Cell>
+   <Cell><Data ss:Type="String">OBERG AND LINQUIST</Data></Cell>
+   <Cell><Data ss:Type="String">$71553.35 </Data></Cell>
+   <Cell><Data ss:Type="String">$61897.50 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">133FD   </Data></Cell>
+   <Cell><Data ss:Type="String">F AND D ENTERPRISES</Data></Cell>
+   <Cell><Data ss:Type="String">$21297.72 </Data></Cell>
+   <Cell><Data ss:Type="String">$14149.01 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">134SS   </Data></Cell>
+   <Cell><Data ss:Type="String">S AND S APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$102208.43 </Data></Cell>
+   <Cell><Data ss:Type="String">$42332.20 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">135VA   </Data></Cell>
+   <Cell><Data ss:Type="String">AUDIO VIDEO APPL CENTER</Data></Cell>
+   <Cell><Data ss:Type="String">$96093.56-</Data></Cell>
+   <Cell><Data ss:Type="String">$4604.70-</Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">136SY   </Data></Cell>
+   <Cell><Data ss:Type="String">DAVE'S TV AND APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$2640.89 </Data></Cell>
+   <Cell><Data ss:Type="String">$13533.84 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">137BT   </Data></Cell>
+   <Cell><Data ss:Type="String">BEITERS HOME CENTER</Data></Cell>
+   <Cell><Data ss:Type="String">$9184.62 </Data></Cell>
+   <Cell><Data ss:Type="String">$11707.82 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">138PF   </Data></Cell>
+   <Cell><Data ss:Type="String">PARK FURNITURE STORE</Data></Cell>
+   <Cell><Data ss:Type="String">$47416.17 </Data></Cell>
+   <Cell><Data ss:Type="String">$42798.23 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">139HB   </Data></Cell>
+   <Cell><Data ss:Type="String">HOMETOWN BRAND CENTER</Data></Cell>
+   <Cell><Data ss:Type="String">$41693.58 </Data></Cell>
+   <Cell><Data ss:Type="String">$41255.31 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">13AG    </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE GALLERY       </Data></Cell>
+   <Cell><Data ss:Type="String">$51665.38 </Data></Cell>
+   <Cell><Data ss:Type="String">$64894.92 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">140MU   </Data></Cell>
+   <Cell><Data ss:Type="String">MUNDEL'S APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$8227.66 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">141GN   </Data></Cell>
+   <Cell><Data ss:Type="String">GOCHNAUER HOME APPL. CT</Data></Cell>
+   <Cell><Data ss:Type="String">$15927.09 </Data></Cell>
+   <Cell><Data ss:Type="String">$41051.85 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">142DY   </Data></Cell>
+   <Cell><Data ss:Type="String">DALYS APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$51964.93 </Data></Cell>
+   <Cell><Data ss:Type="String">$50687.82 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">143FI   </Data></Cell>
+   <Cell><Data ss:Type="String">FINCH SERVICES INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$70.37 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">144PS   </Data></Cell>
+   <Cell><Data ss:Type="String">PARKERS APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$13533.26 </Data></Cell>
+   <Cell><Data ss:Type="String">$3339.45 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">145AL   </Data></Cell>
+   <Cell><Data ss:Type="String">ALL MAKE APPLIANCE SALES</Data></Cell>
+   <Cell><Data ss:Type="String">$64864.19 </Data></Cell>
+   <Cell><Data ss:Type="String">$41888.12 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">146DA   </Data></Cell>
+   <Cell><Data ss:Type="String">DAYS HOME FURN AND APPL</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$24664.50 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">147HI   </Data></Cell>
+   <Cell><Data ss:Type="String">HIGHWAY APPLIANCE CO.</Data></Cell>
+   <Cell><Data ss:Type="String">$32008.12 </Data></Cell>
+   <Cell><Data ss:Type="String">$17397.81 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">148FH   </Data></Cell>
+   <Cell><Data ss:Type="String">FRIEDHABER</Data></Cell>
+   <Cell><Data ss:Type="String">$23260.39 </Data></Cell>
+   <Cell><Data ss:Type="String">$12307.18 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">149LA   </Data></Cell>
+   <Cell><Data ss:Type="String">LESHER'S APPLIANCE INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$20132.91 </Data></Cell>
+   <Cell><Data ss:Type="String">$25288.61 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">14CT    </Data></Cell>
+   <Cell><Data ss:Type="String">ADAM'S TV AND APPL. INC</Data></Cell>
+   <Cell><Data ss:Type="String">$19297.32 </Data></Cell>
+   <Cell><Data ss:Type="String">$29856.12 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">150HW   </Data></Cell>
+   <Cell><Data ss:Type="String">HAWKINS AND SONS INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$51946.66 </Data></Cell>
+   <Cell><Data ss:Type="String">$64521.64 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">151RZ   </Data></Cell>
+   <Cell><Data ss:Type="String">ROZMAN BROTHERS INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$48334.74 </Data></Cell>
+   <Cell><Data ss:Type="String">$32406.47 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">152TA   </Data></Cell>
+   <Cell><Data ss:Type="String">TEATES APPLIANCE INC</Data></Cell>
+   <Cell><Data ss:Type="String">$55287.32 </Data></Cell>
+   <Cell><Data ss:Type="String">$41171.31 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">153PP   </Data></Cell>
+   <Cell><Data ss:Type="String">PERLA'S APPLIANCE PLUS</Data></Cell>
+   <Cell><Data ss:Type="String">$30014.14 </Data></Cell>
+   <Cell><Data ss:Type="String">$48789.65 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">154RP   </Data></Cell>
+   <Cell><Data ss:Type="String">RALPH'S APPLIANCE </Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$20868.32 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">155AK   </Data></Cell>
+   <Cell><Data ss:Type="String">ALASKY'S APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$18897.36 </Data></Cell>
+   <Cell><Data ss:Type="String">$40732.69 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">156HR   </Data></Cell>
+   <Cell><Data ss:Type="String">HERALDS APPL & ELEC</Data></Cell>
+   <Cell><Data ss:Type="String">$19686.47 </Data></Cell>
+   <Cell><Data ss:Type="String">$30986.26 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">157EC   </Data></Cell>
+   <Cell><Data ss:Type="String">ECKLEY TV & APPLIANCE </Data></Cell>
+   <Cell><Data ss:Type="String">$43045.88 </Data></Cell>
+   <Cell><Data ss:Type="String">$34991.11 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">159MD   </Data></Cell>
+   <Cell><Data ss:Type="String">THE APPLIANCE CONNECTION</Data></Cell>
+   <Cell><Data ss:Type="String">$30017.04 </Data></Cell>
+   <Cell><Data ss:Type="String">$12128.93 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">15MN    </Data></Cell>
+   <Cell><Data ss:Type="String">MAINIERO'S INC</Data></Cell>
+   <Cell><Data ss:Type="String">$54871.95 </Data></Cell>
+   <Cell><Data ss:Type="String">$42840.23 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">160HV   </Data></Cell>
+   <Cell><Data ss:Type="String">HARTVILLE HARDWARE</Data></Cell>
+   <Cell><Data ss:Type="String">$55635.35 </Data></Cell>
+   <Cell><Data ss:Type="String">$48139.79 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">161ME   </Data></Cell>
+   <Cell><Data ss:Type="String">MILLERSBURG ELECTRIC</Data></Cell>
+   <Cell><Data ss:Type="String">$62327.54 </Data></Cell>
+   <Cell><Data ss:Type="String">$35561.14 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">162HP   </Data></Cell>
+   <Cell><Data ss:Type="String">HOME APPLIANCE SERVICE</Data></Cell>
+   <Cell><Data ss:Type="String">$26888.42 </Data></Cell>
+   <Cell><Data ss:Type="String">$22049.48 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">163FK   </Data></Cell>
+   <Cell><Data ss:Type="String">FLICKS TV AND APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$8925.66 </Data></Cell>
+   <Cell><Data ss:Type="String">$7662.19 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">164BG   </Data></Cell>
+   <Cell><Data ss:Type="String">HOME APPL SLS AND SVC</Data></Cell>
+   <Cell><Data ss:Type="String">$10111.03 </Data></Cell>
+   <Cell><Data ss:Type="String">$32094.95 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">165MG   </Data></Cell>
+   <Cell><Data ss:Type="String">MAGNUS DISTRIBUTION</Data></Cell>
+   <Cell><Data ss:Type="String">$530.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$2946.26 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">166FC   </Data></Cell>
+   <Cell><Data ss:Type="String">FOCUS CAMERA</Data></Cell>
+   <Cell><Data ss:Type="String">$51104.36 </Data></Cell>
+   <Cell><Data ss:Type="String">$678.03 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">167PT   </Data></Cell>
+   <Cell><Data ss:Type="String">PATTENS APPLIANCE CENTER</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$2278.05 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">168BB   </Data></Cell>
+   <Cell><Data ss:Type="String">BLOOM BROTHERS SUPPLY</Data></Cell>
+   <Cell><Data ss:Type="String">$50464.34 </Data></Cell>
+   <Cell><Data ss:Type="String">$84067.56 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">169GM   </Data></Cell>
+   <Cell><Data ss:Type="String">GOLD APPLIANCES</Data></Cell>
+   <Cell><Data ss:Type="String">$10334.84 </Data></Cell>
+   <Cell><Data ss:Type="String">$7100.67 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">16JA    </Data></Cell>
+   <Cell><Data ss:Type="String">JACOBSON APPLIANCES INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$43236.46 </Data></Cell>
+   <Cell><Data ss:Type="String">$39850.88 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">170EA   </Data></Cell>
+   <Cell><Data ss:Type="String">ELI APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$83071.89 </Data></Cell>
+   <Cell><Data ss:Type="String">$35267.54 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">171DL   </Data></Cell>
+   <Cell><Data ss:Type="String">DANIELS</Data></Cell>
+   <Cell><Data ss:Type="String">$225753.13 </Data></Cell>
+   <Cell><Data ss:Type="String">$32577.63 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">172ER   </Data></Cell>
+   <Cell><Data ss:Type="String">EDWARDS KITCHEN APPL</Data></Cell>
+   <Cell><Data ss:Type="String">$23387.48 </Data></Cell>
+   <Cell><Data ss:Type="String">$356.11-</Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">173WO   </Data></Cell>
+   <Cell><Data ss:Type="String">WOOSTER APPLIANCE CTR</Data></Cell>
+   <Cell><Data ss:Type="String">$10164.80 </Data></Cell>
+   <Cell><Data ss:Type="String">$2256.34 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">174SW   </Data></Cell>
+   <Cell><Data ss:Type="String">SKYLINE</Data></Cell>
+   <Cell><Data ss:Type="String">$63133.03 </Data></Cell>
+   <Cell><Data ss:Type="String">$4242.67 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">176AI   </Data></Cell>
+   <Cell><Data ss:Type="String">ALLIANCE APPL CENTER</Data></Cell>
+   <Cell><Data ss:Type="String">$530.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$3978.30 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">177HN   </Data></Cell>
+   <Cell><Data ss:Type="String">HENDRICKS APPL AND TV</Data></Cell>
+   <Cell><Data ss:Type="String">$22082.21 </Data></Cell>
+   <Cell><Data ss:Type="String">$10448.02 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">178SM   </Data></Cell>
+   <Cell><Data ss:Type="String">SMARTER APPLIANCE INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$31982.17 </Data></Cell>
+   <Cell><Data ss:Type="String">$4601.62 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">179AO   </Data></Cell>
+   <Cell><Data ss:Type="String">ALCO STORES INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$3240.46 </Data></Cell>
+   <Cell><Data ss:Type="String">$4893.07 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">180DV   </Data></Cell>
+   <Cell><Data ss:Type="String">DELAWARE VALLEY APPL</Data></Cell>
+   <Cell><Data ss:Type="String">$50360.71 </Data></Cell>
+   <Cell><Data ss:Type="String">$47851.95 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">181JM   </Data></Cell>
+   <Cell><Data ss:Type="String">JOHN'S MAYTAG HOME APPL</Data></Cell>
+   <Cell><Data ss:Type="String">$4708.60 </Data></Cell>
+   <Cell><Data ss:Type="String">$7307.06 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">182BS   </Data></Cell>
+   <Cell><Data ss:Type="String">BAYSHORE APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$11355.87 </Data></Cell>
+   <Cell><Data ss:Type="String">$3100.51 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">183CB   </Data></Cell>
+   <Cell><Data ss:Type="String">CB JOE TV AND APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$1247.70 </Data></Cell>
+   <Cell><Data ss:Type="String">$1359.90 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">185PD   </Data></Cell>
+   <Cell><Data ss:Type="String">PARKSIDE APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$989.59 </Data></Cell>
+   <Cell><Data ss:Type="String">$2303.56 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">186MI   </Data></Cell>
+   <Cell><Data ss:Type="String">MILLER REFRIGERATION INC</Data></Cell>
+   <Cell><Data ss:Type="String">$21230.26 </Data></Cell>
+   <Cell><Data ss:Type="String">$4089.94 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">187RB   </Data></Cell>
+   <Cell><Data ss:Type="String">R BROOKS AND SONS</Data></Cell>
+   <Cell><Data ss:Type="String">$9558.41 </Data></Cell>
+   <Cell><Data ss:Type="String">$18058.41 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">188AS   </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE DISCOUNTERS</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$6712.17-</Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">189LH   </Data></Cell>
+   <Cell><Data ss:Type="String">L.H. BRUBAKER APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$9046.81 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">18DK    </Data></Cell>
+   <Cell><Data ss:Type="String">D AND K APPLIANCES INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$94894.22 </Data></Cell>
+   <Cell><Data ss:Type="String">$59504.51 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">190AA   </Data></Cell>
+   <Cell><Data ss:Type="String">AUTOMATIC APPL PARTS</Data></Cell>
+   <Cell><Data ss:Type="String">$42447.18 </Data></Cell>
+   <Cell><Data ss:Type="String">$22047.09 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">191NO   </Data></Cell>
+   <Cell><Data ss:Type="String">NORDAM APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$9014.52 </Data></Cell>
+   <Cell><Data ss:Type="String">$8713.31 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">192AN   </Data></Cell>
+   <Cell><Data ss:Type="String">A.K. NAHAS</Data></Cell>
+   <Cell><Data ss:Type="String">$52457.52 </Data></Cell>
+   <Cell><Data ss:Type="String">$47534.29 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">193AL   </Data></Cell>
+   <Cell><Data ss:Type="String">ALLSHOUSE APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$50133.87 </Data></Cell>
+   <Cell><Data ss:Type="String">$52953.13 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">194CR   </Data></Cell>
+   <Cell><Data ss:Type="String">CROSSROADS FURNITURE LLC</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$30832.60 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">196GA   </Data></Cell>
+   <Cell><Data ss:Type="String">GROVE APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$76203.16 </Data></Cell>
+   <Cell><Data ss:Type="String">$62385.23 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">197RM   </Data></Cell>
+   <Cell><Data ss:Type="String">R.W. MCDONALD AND SONS</Data></Cell>
+   <Cell><Data ss:Type="String">$827.80 </Data></Cell>
+   <Cell><Data ss:Type="String">$838.86-</Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">198WF   </Data></Cell>
+   <Cell><Data ss:Type="String">WAYSIDE FURNITURE</Data></Cell>
+   <Cell><Data ss:Type="String">$32150.54 </Data></Cell>
+   <Cell><Data ss:Type="String">$29937.17 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">199NS   </Data></Cell>
+   <Cell><Data ss:Type="String">NORTHSIDE TV AND APPL</Data></Cell>
+   <Cell><Data ss:Type="String">$15824.41 </Data></Cell>
+   <Cell><Data ss:Type="String">$2481.07 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">19CW    </Data></Cell>
+   <Cell><Data ss:Type="String">CLARK'S SERVICE IS FIRST</Data></Cell>
+   <Cell><Data ss:Type="String">$23972.40 </Data></Cell>
+   <Cell><Data ss:Type="String">$34803.36 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">200HA   </Data></Cell>
+   <Cell><Data ss:Type="String">HOME APPLIANCE COMPANY</Data></Cell>
+   <Cell><Data ss:Type="String">$79196.77 </Data></Cell>
+   <Cell><Data ss:Type="String">$51372.16 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">201SC   </Data></Cell>
+   <Cell><Data ss:Type="String">SPROWLS CITY APPL AND TV</Data></Cell>
+   <Cell><Data ss:Type="String">$8335.22 </Data></Cell>
+   <Cell><Data ss:Type="String">$22381.50 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">202RW   </Data></Cell>
+   <Cell><Data ss:Type="String">REESE WAREHOUSE</Data></Cell>
+   <Cell><Data ss:Type="String">$37228.41 </Data></Cell>
+   <Cell><Data ss:Type="String">$50228.59 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">203JU   </Data></Cell>
+   <Cell><Data ss:Type="String">JUST CABINETS </Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$2307.34-</Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">204OU   </Data></Cell>
+   <Cell><Data ss:Type="String">OUTTEN BROTHERS INC</Data></Cell>
+   <Cell><Data ss:Type="String">$604.95 </Data></Cell>
+   <Cell><Data ss:Type="String">$1208.45 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">206CW   </Data></Cell>
+   <Cell><Data ss:Type="String">CENTRAL WHOLESALERS INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$15307.58 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">207PA   </Data></Cell>
+   <Cell><Data ss:Type="String">PALUMBOS</Data></Cell>
+   <Cell><Data ss:Type="String">$7456.19 </Data></Cell>
+   <Cell><Data ss:Type="String">$5728.40 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">208SK   </Data></Cell>
+   <Cell><Data ss:Type="String">SKY VIEW APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$51748.94 </Data></Cell>
+   <Cell><Data ss:Type="String">$65290.42 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">209HT   </Data></Cell>
+   <Cell><Data ss:Type="String">HITRONS TECH INC</Data></Cell>
+   <Cell><Data ss:Type="String">$32134.24 </Data></Cell>
+   <Cell><Data ss:Type="String">$39281.87 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">20CR    </Data></Cell>
+   <Cell><Data ss:Type="String">CRAIG APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$51299.21 </Data></Cell>
+   <Cell><Data ss:Type="String">$72906.58 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">22BH    </Data></Cell>
+   <Cell><Data ss:Type="String">BETTER HOUSEKEEPING SHOP</Data></Cell>
+   <Cell><Data ss:Type="String">$72519.81 </Data></Cell>
+   <Cell><Data ss:Type="String">$61956.40 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">23HA    </Data></Cell>
+   <Cell><Data ss:Type="String">HARVEY APPLIANCE INC.   </Data></Cell>
+   <Cell><Data ss:Type="String">$49923.84 </Data></Cell>
+   <Cell><Data ss:Type="String">$54759.26 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">24MA    </Data></Cell>
+   <Cell><Data ss:Type="String">MILES APPL SLS & SRC</Data></Cell>
+   <Cell><Data ss:Type="String">$45983.46 </Data></Cell>
+   <Cell><Data ss:Type="String">$2416.42 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">260HV   </Data></Cell>
+   <Cell><Data ss:Type="String">HARTVILLE HARDWARE 2</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$597.29 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">26LE    </Data></Cell>
+   <Cell><Data ss:Type="String">LEHIGH SUPPLY INC</Data></Cell>
+   <Cell><Data ss:Type="String">$28038.63 </Data></Cell>
+   <Cell><Data ss:Type="String">$55773.64 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">27NU    </Data></Cell>
+   <Cell><Data ss:Type="String">UNEEDA APPLIANCE CO.</Data></Cell>
+   <Cell><Data ss:Type="String">$53721.98 </Data></Cell>
+   <Cell><Data ss:Type="String">$48170.76 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">280DV   </Data></Cell>
+   <Cell><Data ss:Type="String">CK SEIDMAN APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$5536.51 </Data></Cell>
+   <Cell><Data ss:Type="String">$3609.44 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">28HA    </Data></Cell>
+   <Cell><Data ss:Type="String">HENLOPEN APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$13132.38 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">297RM   </Data></Cell>
+   <Cell><Data ss:Type="String">RW MCDONALD</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$158964.95 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">29KE    </Data></Cell>
+   <Cell><Data ss:Type="String">KEYSTONE APPL. CO. INC. </Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$60.60-</Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">30HE    </Data></Cell>
+   <Cell><Data ss:Type="String">HEIDLEBAUGH'S INC</Data></Cell>
+   <Cell><Data ss:Type="String">$35961.59 </Data></Cell>
+   <Cell><Data ss:Type="String">$26376.35 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">31BK    </Data></Cell>
+   <Cell><Data ss:Type="String">B AND K APPLIANCE PARTS</Data></Cell>
+   <Cell><Data ss:Type="String">$5799.98 </Data></Cell>
+   <Cell><Data ss:Type="String">$75.00 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">32AW    </Data></Cell>
+   <Cell><Data ss:Type="String">APPLIANCE BROKERS</Data></Cell>
+   <Cell><Data ss:Type="String">$11391.07 </Data></Cell>
+   <Cell><Data ss:Type="String">$71881.79 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">33BY    </Data></Cell>
+   <Cell><Data ss:Type="String">BERGEY'S ELECTRIC INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$23601.05 </Data></Cell>
+   <Cell><Data ss:Type="String">$15370.25 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">34SE    </Data></Cell>
+   <Cell><Data ss:Type="String">SEE MORE TV APPLIANCE CT</Data></Cell>
+   <Cell><Data ss:Type="String">$72208.40 </Data></Cell>
+   <Cell><Data ss:Type="String">$53854.68 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">36SH    </Data></Cell>
+   <Cell><Data ss:Type="String">SHORE APPLIANCE CONNECT</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$3831.73-</Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">37RE    </Data></Cell>
+   <Cell><Data ss:Type="String">RENO'S TV INC.          </Data></Cell>
+   <Cell><Data ss:Type="String">$49277.19 </Data></Cell>
+   <Cell><Data ss:Type="String">$55935.41 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">38TH    </Data></Cell>
+   <Cell><Data ss:Type="String">THORNBERRY APPLIANCE TV </Data></Cell>
+   <Cell><Data ss:Type="String">$35587.87 </Data></Cell>
+   <Cell><Data ss:Type="String">$51318.89 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">39KL    </Data></Cell>
+   <Cell><Data ss:Type="String">KLECKNER AND SONS LLC</Data></Cell>
+   <Cell><Data ss:Type="String">$44277.80 </Data></Cell>
+   <Cell><Data ss:Type="String">$51338.73 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">40MA    </Data></Cell>
+   <Cell><Data ss:Type="String">MATTERN'S RIDGE </Data></Cell>
+   <Cell><Data ss:Type="String">$29834.69 </Data></Cell>
+   <Cell><Data ss:Type="String">$24936.78 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">41DE    </Data></Cell>
+   <Cell><Data ss:Type="String">DERBY APPLIANCE STORES  </Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$44897.28 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">42RD    </Data></Cell>
+   <Cell><Data ss:Type="String">RICHMOND DISCOUNT APPL  </Data></Cell>
+   <Cell><Data ss:Type="String">$66774.53 </Data></Cell>
+   <Cell><Data ss:Type="String">$96516.24 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">43ST    </Data></Cell>
+   <Cell><Data ss:Type="String">STADIUM APPLIANCE CENTER</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$533.20-</Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">44SD    </Data></Cell>
+   <Cell><Data ss:Type="String">STROUD TV AND APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$26771.60 </Data></Cell>
+   <Cell><Data ss:Type="String">$18964.60 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">45RG    </Data></Cell>
+   <Cell><Data ss:Type="String">ROGERS APPLIANCE INC.   </Data></Cell>
+   <Cell><Data ss:Type="String">$49993.96 </Data></Cell>
+   <Cell><Data ss:Type="String">$42442.79 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">46PL    </Data></Cell>
+   <Cell><Data ss:Type="String">AMERICAN APPLIANCE SVC</Data></Cell>
+   <Cell><Data ss:Type="String">$5077.16 </Data></Cell>
+   <Cell><Data ss:Type="String">$12387.86 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">47ET    </Data></Cell>
+   <Cell><Data ss:Type="String">EATONTOWN TV            </Data></Cell>
+   <Cell><Data ss:Type="String">$48808.71 </Data></Cell>
+   <Cell><Data ss:Type="String">$42519.53 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">48HG    </Data></Cell>
+   <Cell><Data ss:Type="String">HH GREGG</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$7457.63 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">50LU    </Data></Cell>
+   <Cell><Data ss:Type="String">LUSBYS APPL AND ELEC INC</Data></Cell>
+   <Cell><Data ss:Type="String">$1621.01 </Data></Cell>
+   <Cell><Data ss:Type="String">$6560.43 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">51DS    </Data></Cell>
+   <Cell><Data ss:Type="String">D AND S APPLANCE INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$38447.00 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">52PQ    </Data></Cell>
+   <Cell><Data ss:Type="String">PEQUANNOCK APPLIANCE CO </Data></Cell>
+   <Cell><Data ss:Type="String">$24049.84 </Data></Cell>
+   <Cell><Data ss:Type="String">$16396.52 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">53FL    </Data></Cell>
+   <Cell><Data ss:Type="String">FLICK BROTHERS ELECTRIC</Data></Cell>
+   <Cell><Data ss:Type="String">$47253.79 </Data></Cell>
+   <Cell><Data ss:Type="String">$39293.18 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">56SA    </Data></Cell>
+   <Cell><Data ss:Type="String">SANATOGA CORP.          </Data></Cell>
+   <Cell><Data ss:Type="String">$58491.66 </Data></Cell>
+   <Cell><Data ss:Type="String">$63978.65 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">57BE    </Data></Cell>
+   <Cell><Data ss:Type="String">BERGER APPLIANCE INC    </Data></Cell>
+   <Cell><Data ss:Type="String">$77080.24 </Data></Cell>
+   <Cell><Data ss:Type="String">$73355.96 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">58BO    </Data></Cell>
+   <Cell><Data ss:Type="String">BOTANY TV AND APPL INC</Data></Cell>
+   <Cell><Data ss:Type="String">$80758.80 </Data></Cell>
+   <Cell><Data ss:Type="String">$47176.30 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">59EL    </Data></Cell>
+   <Cell><Data ss:Type="String">ELM RADIO AND TV INC</Data></Cell>
+   <Cell><Data ss:Type="String">$28108.55 </Data></Cell>
+   <Cell><Data ss:Type="String">$25113.81 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">60CU    </Data></Cell>
+   <Cell><Data ss:Type="String">CURTOS INCORPORATED     </Data></Cell>
+   <Cell><Data ss:Type="String">$52802.17 </Data></Cell>
+   <Cell><Data ss:Type="String">$49555.18 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">61DC    </Data></Cell>
+   <Cell><Data ss:Type="String">US LBM LLC.</Data></Cell>
+   <Cell><Data ss:Type="String">$4259.53 </Data></Cell>
+   <Cell><Data ss:Type="String">$49099.26 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">62FR    </Data></Cell>
+   <Cell><Data ss:Type="String">FRED DECESARE'S VILLAGE </Data></Cell>
+   <Cell><Data ss:Type="String">$57116.52 </Data></Cell>
+   <Cell><Data ss:Type="String">$65441.04 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">63AB    </Data></Cell>
+   <Cell><Data ss:Type="String">A.B.C. SALES AND SERVICE</Data></Cell>
+   <Cell><Data ss:Type="String">$54140.87 </Data></Cell>
+   <Cell><Data ss:Type="String">$64417.93 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">64GR    </Data></Cell>
+   <Cell><Data ss:Type="String">GRINGER AND SONS INC</Data></Cell>
+   <Cell><Data ss:Type="String">$56319.21 </Data></Cell>
+   <Cell><Data ss:Type="String">$66388.41 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">65SI    </Data></Cell>
+   <Cell><Data ss:Type="String">SILVER CITY             </Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$253.89 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">66TR    </Data></Cell>
+   <Cell><Data ss:Type="String">TRIPODI'S ELECTRONICS   </Data></Cell>
+   <Cell><Data ss:Type="String">$43036.63 </Data></Cell>
+   <Cell><Data ss:Type="String">$51767.19 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">67VT    </Data></Cell>
+   <Cell><Data ss:Type="String">VOITEK TV SALES AND </Data></Cell>
+   <Cell><Data ss:Type="String">$68601.39 </Data></Cell>
+   <Cell><Data ss:Type="String">$39199.92 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">68QU    </Data></Cell>
+   <Cell><Data ss:Type="String">QUEEN APPLIANCE WHOLESAL</Data></Cell>
+   <Cell><Data ss:Type="String">$801838.14 </Data></Cell>
+   <Cell><Data ss:Type="String">$61848.94 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">69JC    </Data></Cell>
+   <Cell><Data ss:Type="String">JERSEY COAST APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$23658.02 </Data></Cell>
+   <Cell><Data ss:Type="String">$21132.96 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">70YO    </Data></Cell>
+   <Cell><Data ss:Type="String">MIGHTY YOUNGS APPL LLC</Data></Cell>
+   <Cell><Data ss:Type="String">$8716.66 </Data></Cell>
+   <Cell><Data ss:Type="String">$28183.00 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">71AL    </Data></Cell>
+   <Cell><Data ss:Type="String">ALBO APPLIANCE          </Data></Cell>
+   <Cell><Data ss:Type="String">$64589.95 </Data></Cell>
+   <Cell><Data ss:Type="String">$84337.65 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">72BL    </Data></Cell>
+   <Cell><Data ss:Type="String">BLONDER'S DISCOUNT APPL.</Data></Cell>
+   <Cell><Data ss:Type="String">$51676.03 </Data></Cell>
+   <Cell><Data ss:Type="String">$55456.67 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">73GC    </Data></Cell>
+   <Cell><Data ss:Type="String">GRAND CENTRAL TV AND APP</Data></Cell>
+   <Cell><Data ss:Type="String">$20556.39 </Data></Cell>
+   <Cell><Data ss:Type="String">$29979.97 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">74RC    </Data></Cell>
+   <Cell><Data ss:Type="String">RAC ENTERPRISE INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$4884.24-</Data></Cell>
+   <Cell><Data ss:Type="String">$79944.27 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">75MS    </Data></Cell>
+   <Cell><Data ss:Type="String">MICHAELS SALES AND SVC</Data></Cell>
+   <Cell><Data ss:Type="String">$16796.71 </Data></Cell>
+   <Cell><Data ss:Type="String">$16836.55 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">76PE    </Data></Cell>
+   <Cell><Data ss:Type="String">PETRILLO'S APPLIANCES   </Data></Cell>
+   <Cell><Data ss:Type="String">$55954.23 </Data></Cell>
+   <Cell><Data ss:Type="String">$42800.84 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">77RS    </Data></Cell>
+   <Cell><Data ss:Type="String">ROB STEVEN INC.         </Data></Cell>
+   <Cell><Data ss:Type="String">$75281.89 </Data></Cell>
+   <Cell><Data ss:Type="String">$42448.32 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">78WA    </Data></Cell>
+   <Cell><Data ss:Type="String">WAYFAIR LLC</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$21094.46-</Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">79EF    </Data></Cell>
+   <Cell><Data ss:Type="String">ELITE FACTORY AUTH SVC</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$1539.40 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">80HF    </Data></Cell>
+   <Cell><Data ss:Type="String">HITCHNER'S FURNITURE</Data></Cell>
+   <Cell><Data ss:Type="String">$1949.95 </Data></Cell>
+   <Cell><Data ss:Type="String">$961.56 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">81AT    </Data></Cell>
+   <Cell><Data ss:Type="String">ATLANTIC APPLIANCE INC</Data></Cell>
+   <Cell><Data ss:Type="String">$77755.16 </Data></Cell>
+   <Cell><Data ss:Type="String">$61449.80 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">82CL    </Data></Cell>
+   <Cell><Data ss:Type="String">CLARK'S TV AND APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$40314.34 </Data></Cell>
+   <Cell><Data ss:Type="String">$50837.73 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">83RL    </Data></Cell>
+   <Cell><Data ss:Type="String">RELIABLE HOME SUPPLY</Data></Cell>
+   <Cell><Data ss:Type="String">$21216.36 </Data></Cell>
+   <Cell><Data ss:Type="String">$16125.12 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">84HY    </Data></Cell>
+   <Cell><Data ss:Type="String">HAPPY HOME APPLIANCE </Data></Cell>
+   <Cell><Data ss:Type="String">$20909.37 </Data></Cell>
+   <Cell><Data ss:Type="String">$13567.47 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">86DN    </Data></Cell>
+   <Cell><Data ss:Type="String">DUNN & SEIBERT</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$25555.06 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">87KO    </Data></Cell>
+   <Cell><Data ss:Type="String">KOCH'S TV AND APPL INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$28502.02 </Data></Cell>
+   <Cell><Data ss:Type="String">$37598.02 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">88TE    </Data></Cell>
+   <Cell><Data ss:Type="String">TED'S APPLIANCE S&S LLC</Data></Cell>
+   <Cell><Data ss:Type="String">$20459.25 </Data></Cell>
+   <Cell><Data ss:Type="String">$5352.58 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">89AR    </Data></Cell>
+   <Cell><Data ss:Type="String">ART HANDLERS APPL CENTER</Data></Cell>
+   <Cell><Data ss:Type="String">$41962.33 </Data></Cell>
+   <Cell><Data ss:Type="String">$67293.01 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">90HH    </Data></Cell>
+   <Cell><Data ss:Type="String">H AND H APPLIANCES</Data></Cell>
+   <Cell><Data ss:Type="String">$53773.73 </Data></Cell>
+   <Cell><Data ss:Type="String">$68228.01 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">91PY    </Data></Cell>
+   <Cell><Data ss:Type="String">E.A. PYLE AND CO.</Data></Cell>
+   <Cell><Data ss:Type="String">$0.00 </Data></Cell>
+   <Cell><Data ss:Type="String">$3957.83 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">92DU    </Data></Cell>
+   <Cell><Data ss:Type="String">DUNMORE APPLIANCE INC.</Data></Cell>
+   <Cell><Data ss:Type="String">$64697.45 </Data></Cell>
+   <Cell><Data ss:Type="String">$63281.03 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">93AJ    </Data></Cell>
+   <Cell><Data ss:Type="String">A J APPLIANCE</Data></Cell>
+   <Cell><Data ss:Type="String">$10513.76 </Data></Cell>
+   <Cell><Data ss:Type="String">$48872.95 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">94JB    </Data></Cell>
+   <Cell><Data ss:Type="String">J.B.HOSTETTER AND SONS</Data></Cell>
+   <Cell><Data ss:Type="String">$4542.65-</Data></Cell>
+   <Cell><Data ss:Type="String">$14693.71 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">95AH    </Data></Cell>
+   <Cell><Data ss:Type="String">ANCHOR APPLIANCE INC</Data></Cell>
+   <Cell><Data ss:Type="String">$99102.88 </Data></Cell>
+   <Cell><Data ss:Type="String">$65970.98 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">97ZI    </Data></Cell>
+   <Cell><Data ss:Type="String">J.B.ZIMMERMAN AND SONS</Data></Cell>
+   <Cell><Data ss:Type="String">$47348.18 </Data></Cell>
+   <Cell><Data ss:Type="String">$50258.47 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">98CH    </Data></Cell>
+   <Cell><Data ss:Type="String">CABIN HILL MAYTAG</Data></Cell>
+   <Cell><Data ss:Type="String">$19596.26 </Data></Cell>
+   <Cell><Data ss:Type="String">$4349.49 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">99CE    </Data></Cell>
+   <Cell><Data ss:Type="String">CARLISLE ELEC AND APPL </Data></Cell>
+   <Cell><Data ss:Type="String">$85.43 </Data></Cell>
+   <Cell><Data ss:Type="String">$41023.50 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">ADC     </Data></Cell>
+   <Cell><Data ss:Type="String">Appliance Dealers Coop.</Data></Cell>
+   <Cell><Data ss:Type="String">$115878.16 </Data></Cell>
+   <Cell><Data ss:Type="String">$4629.82 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">EFC     </Data></Cell>
+   <Cell><Data ss:Type="String">ELECTROLUX FINANCIAL</Data></Cell>
+   <Cell><Data ss:Type="String">$145433.59 </Data></Cell>
+   <Cell><Data ss:Type="String">$302997.73 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">TRANS   </Data></Cell>
+   <Cell><Data ss:Type="String">FINANCED BY WELLS FARGO</Data></Cell>
+   <Cell><Data ss:Type="String">$2764670.02 </Data></Cell>
+   <Cell><Data ss:Type="String">$1367530.92 </Data></Cell>
+	</Row>
+   <Row>
+   <Cell><Data ss:Type="String">TOTALS</Data></Cell>
+   <Cell><Data ss:Type="String"> </Data></Cell>
+   <Cell><Data ss:Type="String">$10271275.54 </Data></Cell>
+   <Cell><Data ss:Type="String">$8272301.50 </Data></Cell>
+   <Cell><Data ss:Type="String">$1998974.04-</Data></Cell>
+	</Row>
+  </Table>
+ </Worksheet>
+</Workbook>

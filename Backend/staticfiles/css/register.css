@@ -1,0 +1,79 @@
+body.registration-container {
+    margin-bottom: 20px;
+    margin-top: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 0 370px;
+  }
+  
+  #registration-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0 50px;
+  padding-bottom: 15px;
+  background: linear-gradient(to right,yellow, rgb(16, 113, 16));
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+  }
+  
+  #registration-container h1 {
+    width: 100%;
+    text-align: center;
+  }
+  
+  #registration-container label {
+    width: 50%;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    line-height: 30px;
+    font-size: 30px;
+  }
+  
+  #registration-container input[type="text"],
+  #registration-container input[type="password"],
+  #registration-container input[type="date"], 
+  #registration-container input[type="email"], 
+  #registration-container select {
+    width: 48%;
+    padding: 6px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+  }
+  label {
+    font-weight: 700;
+  }
+  
+  
+  #registration-container textarea {
+    width:100%;
+    padding: 1px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    height:150px
+  }
+  
+  #registration-container hr {
+    border: 2px solid white;
+    margin-bottom: 25px;
+    width: 100%;
+  }
+  
+  #registration-container button {
+    background-color: #f611a6;
+    color: white;
+    padding: 6px;
+    margin: 8px 10;
+    border: none;
+    cursor: pointer;
+    width: 40%;
+    margin: 0 175px;
+  }
+  
+  #registration-container h5 {
+    padding: 15px 0;
+  }
+
