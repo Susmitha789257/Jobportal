@@ -29,7 +29,7 @@ python manage.py runserver 0.0.0.0:8000
 vi settings.py [Host *]
 pip install gunicorn
 
-gunicorn SDE_PROJECT.wsgi:application --bind 127.0.0.1:8000
+gunicorn SDE_PROJECT.wsgi:application --bind 0.0.0.0:8000
 sudo vi /etc/systemd/system/gunicorn.service
 
 [Unit]
@@ -106,10 +106,62 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 Frontend
 
+sudo apt update && sudo apt upgrade -y
+apt install nginx -y
 
+sudo vi /etc/nginx/sites-available/frontend
 
+server {
+    listen 80;
+    server_name _;
 
+    root /var/www/Frontend;
+    index home.html;
 
+    location / {
+        try_files $uri $uri/ /home.html;
+    }
+
+    # (Optional – keep for later backend connection)
+    location /api/ {
+        proxy_pass http://15.168.10.234;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    }
+}
+
+sudo ln -s /etc/nginx/sites-available/frontend /etc/nginx/sites-enabled/
+sudo rm -f /etc/nginx/sites-enabled/default
+sudo nginx -t
+sudo systemctl restart nginx
+sudo chmod o+x /var
+sudo chmod o+x /var/www
+sudo chmod o+x /var/www/Frontend
+sudo systemctl restart nginx
+
+---------------------------------------------------------------------------------
+
+server {
+    listen 80;
+    server_name _;
+
+    root /var/www/html;
+    index index.html;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+
+    location /api/ {
+        proxy_pass http://15.168.39.55:8000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    }
+}
+
+curl -X POST http://15.168.62.62/api/register/
 
 
 
